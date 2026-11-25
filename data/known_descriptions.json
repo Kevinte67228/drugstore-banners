@@ -838,5 +838,101 @@
     "dateNote": "點數有效至 2027/01/13",
     "dateType": "dated",
     "category": "集點兌換"
+  },
+  "28e95e895b24345f": {
+    "title": "●2611_大BN_週三樂購日",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "poya|https://www.poyabuy.com.tw/v2/ECoupon/List": {
+    "title": "●2611_大BN_週三樂購日",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "57276f65b00ef8d1": {
+    "title": "寶雅首頁最新活動",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043": {
+    "title": "寶雅首頁最新活動",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "5b2f0c6714794dbc": {
+    "title": "寶雅首頁最新活動",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "poya|https://www.poyabuy.com.tw/page/esthetic": {
+    "title": "寶雅首頁最新活動",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "7583a1d9434af834": {
+    "title": "寶雅首頁最新活動",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "poya|https://www.poyabuy.com.tw/SalePage/Index/12187182": {
+    "title": "寶雅首頁最新活動",
+    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "e875a6dd14382194": {
+    "title": "黑五  () 1125髮類",
+    "desc": "屈臣氏首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "watsons|https://www.watsons.com.tw/promotion-tag/67": {
+    "title": "黑五  () 1125髮類",
+    "desc": "屈臣氏首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "baf9bde942f969bc": {
+    "title": "261125    直播 CRM",
+    "desc": "屈臣氏首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "watsons|https://www.watsons.com.tw/watslive": {
+    "title": "261125    直播 CRM",
+    "desc": "屈臣氏首頁最新主打活動，詳情請點擊活動頁查看。",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
   }
 }
