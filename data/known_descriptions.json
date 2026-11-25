@@ -855,54 +855,6 @@
     "dateType": "ongoing",
     "category": "精選活動"
   },
-  "57276f65b00ef8d1": {
-    "title": "寶雅首頁最新活動",
-    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
-    "date": "依官網公告",
-    "dateNote": "寶雅最新活動",
-    "dateType": "ongoing",
-    "category": "精選活動"
-  },
-  "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043": {
-    "title": "寶雅首頁最新活動",
-    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
-    "date": "依官網公告",
-    "dateNote": "寶雅最新活動",
-    "dateType": "ongoing",
-    "category": "精選活動"
-  },
-  "5b2f0c6714794dbc": {
-    "title": "寶雅首頁最新活動",
-    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
-    "date": "依官網公告",
-    "dateNote": "寶雅最新活動",
-    "dateType": "ongoing",
-    "category": "精選活動"
-  },
-  "poya|https://www.poyabuy.com.tw/page/esthetic": {
-    "title": "寶雅首頁最新活動",
-    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
-    "date": "依官網公告",
-    "dateNote": "寶雅最新活動",
-    "dateType": "ongoing",
-    "category": "精選活動"
-  },
-  "7583a1d9434af834": {
-    "title": "寶雅首頁最新活動",
-    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
-    "date": "依官網公告",
-    "dateNote": "寶雅最新活動",
-    "dateType": "ongoing",
-    "category": "精選活動"
-  },
-  "poya|https://www.poyabuy.com.tw/SalePage/Index/12187182": {
-    "title": "寶雅首頁最新活動",
-    "desc": "寶雅首頁最新主打活動，詳情請點擊活動頁查看。",
-    "date": "依官網公告",
-    "dateNote": "寶雅最新活動",
-    "dateType": "ongoing",
-    "category": "精選活動"
-  },
   "e875a6dd14382194": {
     "title": "黑五  () 1125髮類",
     "desc": "屈臣氏首頁最新主打活動，詳情請點擊活動頁查看。",
@@ -932,6 +884,54 @@
     "desc": "屈臣氏首頁最新主打活動，詳情請點擊活動頁查看。",
     "date": "依官網公告",
     "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "57276f65b00ef8d1": {
+    "title": "線上買獨家 POVA 11/24-11/26",
+    "desc": "線上買獨家 / POVA / 11/24-11/26 / 黑色幸運星 / 天天免費 / 玩1次 / 中獎率100% / 有機會拿1折神券！",
+    "date": "2026/11/24 - 2026/11/26",
+    "dateNote": "短期快閃 / 即將截止",
+    "dateType": "urgent",
+    "category": "折扣優惠"
+  },
+  "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043": {
+    "title": "線上買獨家 POVA 11/24-11/26",
+    "desc": "線上買獨家 / POVA / 11/24-11/26 / 黑色幸運星 / 天天免費 / 玩1次 / 中獎率100% / 有機會拿1折神券！",
+    "date": "2026/11/24 - 2026/11/26",
+    "dateNote": "短期快閃 / 即將截止",
+    "dateType": "urgent",
+    "category": "折扣優惠"
+  },
+  "5b2f0c6714794dbc": {
+    "title": "線上買獨家 雙效美寧翅 主題商品",
+    "desc": "線上買獨家 / 雙效美寧翅 / 主題商品 / 滿額天天享 / 88折 / OREAL / 滿額金喜 DUO DUO< / 11.25-12.01",
+    "date": "2026/11/25 - 2026/12/01",
+    "dateNote": "寶雅最新活動",
+    "dateType": "dated",
+    "category": "折扣優惠"
+  },
+  "poya|https://www.poyabuy.com.tw/page/esthetic": {
+    "title": "線上買獨家 雙效美寧翅 主題商品",
+    "desc": "線上買獨家 / 雙效美寧翅 / 主題商品 / 滿額天天享 / 88折 / OREAL / 滿額金喜 DUO DUO< / 11.25-12.01",
+    "date": "2026/11/25 - 2026/12/01",
+    "dateNote": "寶雅最新活動",
+    "dateType": "dated",
+    "category": "折扣優惠"
+  },
+  "7583a1d9434af834": {
+    "title": "用泡泡面膜開啟 超強補水第一步 一敷補水，一抹養護 打造年輕水潤肌",
+    "desc": "用泡泡面膜開啟 / 超強補水第一步 / 一敷補水，一抹養護 打造年輕水潤肌 / N ANPDRN / o bubble mask / + NMN* / 煥活保濕能量 / 燦1穿健康达阳的蜜健成分",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "poya|https://www.poyabuy.com.tw/SalePage/Index/12187182": {
+    "title": "用泡泡面膜開啟 超強補水第一步 一敷補水，一抹養護 打造年輕水潤肌",
+    "desc": "用泡泡面膜開啟 / 超強補水第一步 / 一敷補水，一抹養護 打造年輕水潤肌 / N ANPDRN / o bubble mask / + NMN* / 煥活保濕能量 / 燦1穿健康达阳的蜜健成分",
+    "date": "依官網公告",
+    "dateNote": "寶雅最新活動",
     "dateType": "ongoing",
     "category": "精選活動"
   }
