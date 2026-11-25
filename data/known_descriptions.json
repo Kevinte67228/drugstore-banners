@@ -7,23 +7,7 @@
     "dateType": "dated",
     "category": "網購預約"
   },
-  "cosmed|https://bmai.app/8c79cbd9": {
-    "title": "康是美網購 預約隱形眼鏡 早鳥送 $300 折價券",
-    "desc": "康是美網購預約隱形眼鏡並於 3 天內至門市取貨完成，贈 300 元康是美網購折價券（限量 1,000 份，2027/01/08 發送）。",
-    "date": "2026/10/23 - 2026/12/24",
-    "dateNote": "限量 1,000 份 / 網購預約",
-    "dateType": "dated",
-    "category": "網購預約"
-  },
   "985bdecd2f79ebeb": {
-    "title": "愛 Sharing 2026 聖誕彩妝 79 折 / 交換禮物 5 折起",
-    "desc": "聖誕彩妝指定商品任 2 件 79 折，交換禮物精選專區 5 折起。",
-    "date": "2026/11/20 - 2026/12/24",
-    "dateNote": "聖誕主題檔期",
-    "dateType": "dated",
-    "category": "彩妝禮品"
-  },
-  "cosmed|https://bmai.app/e8149d78": {
     "title": "愛 Sharing 2026 聖誕彩妝 79 折 / 交換禮物 5 折起",
     "desc": "聖誕彩妝指定商品任 2 件 79 折，交換禮物精選專區 5 折起。",
     "date": "2026/11/20 - 2026/12/24",
@@ -39,23 +23,7 @@
     "dateType": "dated",
     "category": "聯名加購"
   },
-  "cosmed|https://bmai.app/75d0cf15": {
-    "title": "蠟筆小新 冬日萌趣時光 滿 $388 加購",
-    "desc": "單筆消費折扣後滿 388 元即可加購蠟筆小新冬日萌趣系列商品，不必等集點（售完為止）。",
-    "date": "2026/11/20 - 2026/12/24",
-    "dateNote": "單筆滿額加購",
-    "dateType": "dated",
-    "category": "聯名加購"
-  },
   "36259614264b45a7": {
-    "title": "冬季美肌 聖誕嘉年華 滿 $888 送拉拉熊書本月曆",
-    "desc": "指定保養商品折扣後滿 888 元，贈拉拉熊書本月曆 1 個（隨機不挑款 / 限量送完為止）。",
-    "date": "2026/11/20 - 2026/12/24",
-    "dateNote": "指定保養滿額贈",
-    "dateType": "dated",
-    "category": "保養滿贈"
-  },
-  "cosmed|https://bmai.app/90c0d765": {
     "title": "冬季美肌 聖誕嘉年華 滿 $888 送拉拉熊書本月曆",
     "desc": "指定保養商品折扣後滿 888 元，贈拉拉熊書本月曆 1 個（隨機不挑款 / 限量送完為止）。",
     "date": "2026/11/20 - 2026/12/24",
@@ -71,23 +39,7 @@
     "dateType": "dated",
     "category": "香氛特惠"
   },
-  "cosmed|https://bmai.app/52dcb7fc": {
-    "title": "愛 Sharing 2026 香水 / 香氛 任 2 件再 88 折",
-    "desc": "指定香水與香氛任選 2 件享再 88 折（涵蓋 Abib / OHANA MAHAALO / COACH / A&F / MONTBLANC 等）。",
-    "date": "2026/11/20 - 2026/12/24",
-    "dateNote": "香水香氛優惠",
-    "dateType": "dated",
-    "category": "香氛特惠"
-  },
   "ca13d2bb77d1578e": {
-    "title": "美髮指定商品 任 2 件送 100 元現金折價券",
-    "desc": "超過千件美髮指定商品任選 2 件，即贈 100 元現金折價券（可累贈）。",
-    "date": "2026/11/20 - 2026/12/24",
-    "dateNote": "可累贈",
-    "dateType": "dated",
-    "category": "美髮護理"
-  },
-  "cosmed|https://bmai.app/3ce2a59d": {
     "title": "美髮指定商品 任 2 件送 100 元現金折價券",
     "desc": "超過千件美髮指定商品任選 2 件，即贈 100 元現金折價券（可累贈）。",
     "date": "2026/11/20 - 2026/12/24",
@@ -103,23 +55,7 @@
     "dateType": "dated",
     "category": "個人清潔"
   },
-  "cosmed|https://bmai.app/52c3b483": {
-    "title": "衛生棉 滿 $299 送 $30 現金折價券",
-    "desc": "衛生棉指定商品單筆滿 299 元，送 30 元現金折價券（可累贈）。",
-    "date": "2026/11/20 - 2026/12/24",
-    "dateNote": "可累贈",
-    "dateType": "dated",
-    "category": "個人清潔"
-  },
   "cf5d2184b74d04b4": {
-    "title": "康是美藥局 處方箋調劑領藥與免費血壓量測",
-    "desc": "受理各大醫院 / 診所 / 牙科處方箋調劑領藥（自費藥除外），提供免費血壓量測、藥師線上 1 對 1 諮詢及線上預約門市領藥。",
-    "date": "常態服務（未標示期限）",
-    "dateNote": "依各藥局門市公告",
-    "dateType": "ongoing",
-    "category": "藥局服務"
-  },
-  "cosmed|https://www.cosmed.com.tw/news_detail.aspx?id=1848": {
     "title": "康是美藥局 處方箋調劑領藥與免費血壓量測",
     "desc": "受理各大醫院 / 診所 / 牙科處方箋調劑領藥（自費藥除外），提供免費血壓量測、藥師線上 1 對 1 諮詢及線上預約門市領藥。",
     "date": "常態服務（未標示期限）",
@@ -135,23 +71,7 @@
     "dateType": "dated",
     "category": "網購專櫃"
   },
-  "cosmed|https://bmai.app/c1dabe1e": {
-    "title": "UNIKCY 愛 Sharing 2026 網購限定三重優惠",
-    "desc": "單筆消費折扣後滿 1,000 元享 88 折（限指定商品）；滿 2,000 元折 200 元（可累折）；滿 2,500 元享 OPENPOINT 20 倍（每會員上限 300 點）。",
-    "date": "2026/11/20 - 2026/12/24",
-    "dateNote": "UNIKCY 網購限定",
-    "dateType": "dated",
-    "category": "網購專櫃"
-  },
   "23e2de1fae535243": {
-    "title": "超級品牌週 HALEON（善存 / 挺立 / 舒酸定 / 牙周適 / 保麗淨）",
-    "desc": "網購限定不限金額 88 折；滿 1,200 登記贈 OPENPOINT 120 點、滿 999 贈 MOOMIN 飲料提袋、滿 1,399 贈 304 不鏽鋼保鮮盒 2 件組；icash Pay 滿 1,000 贈 50 點。",
-    "date": "2026/11/23 - 2026/11/26",
-    "dateNote": "4 天快閃 / 網購限定",
-    "dateType": "urgent",
-    "category": "品牌快閃"
-  },
-  "cosmed|https://bmai.app/8fa80314": {
     "title": "超級品牌週 HALEON（善存 / 挺立 / 舒酸定 / 牙周適 / 保麗淨）",
     "desc": "網購限定不限金額 88 折；滿 1,200 登記贈 OPENPOINT 120 點、滿 999 贈 MOOMIN 飲料提袋、滿 1,399 贈 304 不鏽鋼保鮮盒 2 件組；icash Pay 滿 1,000 贈 50 點。",
     "date": "2026/11/23 - 2026/11/26",
@@ -167,23 +87,7 @@
     "dateType": "urgent",
     "category": "品牌快閃"
   },
-  "cosmed|https://bmai.app/4dcaae0f": {
-    "title": "神級品牌日 靠得住 Kotex / 好奇 Huggies / 舒潔 Kleenex",
-    "desc": "網購限定不限金額 88 折；滿 1,200 登記贈 OPENPOINT 120 點（可累贈）；下單贈 Kotex 環保提袋；icash Pay 滿 1,000 贈 50 點。",
-    "date": "2026/11/23 - 2026/11/25",
-    "dateNote": "3 天快閃 / 網購限定",
-    "dateType": "urgent",
-    "category": "品牌快閃"
-  },
   "d6e3da302f01d45a": {
-    "title": "康是美 好集賞 JOGUMAN 聯名抽獎（限定門市）",
-    "desc": "JOGUMAN 好集賞建議售價一抽 350 元，共 80+1 抽（含造型玩偶、托特包、吊飾、摺疊桌與 Last 賞）。",
-    "date": "2026/11/09 起 - 抽完為止",
-    "dateNote": "限定門市 / 數量有限",
-    "dateType": "lottery",
-    "category": "好集賞抽獎"
-  },
-  "cosmed|https://www.cosmed.com.tw/news_detail.aspx?id=3137": {
     "title": "康是美 好集賞 JOGUMAN 聯名抽獎（限定門市）",
     "desc": "JOGUMAN 好集賞建議售價一抽 350 元，共 80+1 抽（含造型玩偶、托特包、吊飾、摺疊桌與 Last 賞）。",
     "date": "2026/11/09 起 - 抽完為止",
@@ -199,23 +103,7 @@
     "dateType": "lottery",
     "category": "50元抽抽樂"
   },
-  "cosmed|https://www.cosmed.com.tw/news_detail.aspx?id=3132": {
-    "title": "mikolu 美好時光 50 元抽抽樂（每抽有獎）",
-    "desc": "每抽 50 元即開即中，幸運綻放獎含 18 吋行李箱、摺疊購物袋、隨行杯套、旅行收納包、造型地墊及多款實用小物。",
-    "date": "即日起開賣 - 抽完為止",
-    "dateNote": "門市現場兌獎",
-    "dateType": "lottery",
-    "category": "50元抽抽樂"
-  },
   "858dea4f52642ce1": {
-    "title": "Jinart x AKUTOY 鬼人生假鬼假怪 50 元抽抽樂",
-    "desc": "每抽 50 元，靈魂登出獎含軟膠夜燈、造型地墊（人生躺平款）、造型抱枕（壓力山大款）、辭呈手機包，另有盲盒、立牌與擦拭布。",
-    "date": "即日起開抽 - 抽完為止",
-    "dateNote": "門市現場兌獎",
-    "dateType": "lottery",
-    "category": "50元抽抽樂"
-  },
-  "cosmed|https://www.cosmed.com.tw/news_detail.aspx?id=3133": {
     "title": "Jinart x AKUTOY 鬼人生假鬼假怪 50 元抽抽樂",
     "desc": "每抽 50 元，靈魂登出獎含軟膠夜燈、造型地墊（人生躺平款）、造型抱枕（壓力山大款）、辭呈手機包，另有盲盒、立牌與擦拭布。",
     "date": "即日起開抽 - 抽完為止",
@@ -231,23 +119,7 @@
     "dateType": "urgent",
     "category": "免費抽獎"
   },
-  "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044034": {
-    "title": "黑色幸運星 天天免費抽 1 折神券",
-    "desc": "線上買獨家，天天免費玩 1 次幸運扭蛋，中獎率 100%，有機會抽中 1 折神券與運費折抵券。",
-    "date": "2026/11/24 - 2026/11/26",
-    "dateNote": "3 天快閃 / 天天免費抽",
-    "dateType": "urgent",
-    "category": "免費抽獎"
-  },
   "11718ae34d486616": {
-    "title": "極淨補給週 主題商品滿額天天享 88 折",
-    "desc": "線上買獨家，清潔洗護與美妝主題商品滿額天天享 88 折，再享滿額金喜 DUO DUO 抽獎。",
-    "date": "2026/11/18 - 2026/11/24",
-    "dateNote": "今日最後一天！",
-    "dateType": "urgent",
-    "category": "主題折扣"
-  },
-  "poya|https://www.poyabuy.com.tw/page/pure": {
     "title": "極淨補給週 主題商品滿額天天享 88 折",
     "desc": "線上買獨家，清潔洗護與美妝主題商品滿額天天享 88 折，再享滿額金喜 DUO DUO 抽獎。",
     "date": "2026/11/18 - 2026/11/24",
@@ -263,23 +135,7 @@
     "dateType": "dated",
     "category": "黑五回饋"
   },
-  "poya|https://www.poyabuy.com.tw/v2/official/SalePageCategory/604760?sortMode=Sales": {
-    "title": "瘋黑五 狂歡購 主題商品滿 $699 享 12% 點數回饋",
-    "desc": "線上買獨家，主題商品（3CE / LANEIGE / Kotex / Cetaphil / 寶拉珍選等）滿 699 元享 12% 點數回饋，再抽滿額金喜 DUO DUO。",
-    "date": "2026/11/18 - 2026/12/01",
-    "dateNote": "黑五高回饋檔期",
-    "dateType": "dated",
-    "category": "黑五回饋"
-  },
   "b73a5c62e74a5d0a": {
-    "title": "全效煥膚盛典 指定醫美商品滿額現折 $100",
-    "desc": "線上買獨家，指定醫美保養商品（CeraVe / Relove / AHC / sensilis / OLAY PROX 等）滿額現折 100 元（可累折），再抽滿額金喜 DUO DUO。",
-    "date": "2026/11/04 - 2026/12/01",
-    "dateNote": "可累折 / 醫美專區",
-    "dateType": "dated",
-    "category": "醫美保養"
-  },
-  "poya|https://www.poyabuy.com.tw/page/ANEWGLOWBEGINS": {
     "title": "全效煥膚盛典 指定醫美商品滿額現折 $100",
     "desc": "線上買獨家，指定醫美保養商品（CeraVe / Relove / AHC / sensilis / OLAY PROX 等）滿額現折 100 元（可累折），再抽滿額金喜 DUO DUO。",
     "date": "2026/11/04 - 2026/12/01",
@@ -295,23 +151,7 @@
     "dateType": "urgent",
     "category": "免運贈禮"
   },
-  "poya|https://www.poyabuy.com.tw/page/11-2_FamilyMart": {
-    "title": "全家取貨 $390 免運 再請喝 Let's Cafe 經典熱美式",
-    "desc": "線上買獨家，選擇全家 FamilyMart 超商取貨滿 390 元免運費，活動期間再請喝 Let's Cafe 經典熱美式（小杯）。",
-    "date": "2026/11/23 - 2026/11/27",
-    "dateNote": "5 天快閃 / 超取免運贈咖啡",
-    "dateType": "urgent",
-    "category": "免運贈禮"
-  },
   "d29138d092291a6a": {
-    "title": "KATE TOKYO x NANA 聯名睫毛膏 購買即贈聯名吊飾",
-    "desc": "凡購買凱婷 KATE 絕美綻放睫毛膏聯名款 NA 系列商品，即贈 KATE x NANA 聯名吊飾 1 個（數量有限贈完為止）。",
-    "date": "2026/11/04 - 2026/12/01",
-    "dateNote": "聯名限量贈品",
-    "dateType": "dated",
-    "category": "彩妝聯名"
-  },
-  "poya|https://www.poyabuy.com.tw/SalePage/Index/12265407": {
     "title": "KATE TOKYO x NANA 聯名睫毛膏 購買即贈聯名吊飾",
     "desc": "凡購買凱婷 KATE 絕美綻放睫毛膏聯名款 NA 系列商品，即贈 KATE x NANA 聯名吊飾 1 個（數量有限贈完為止）。",
     "date": "2026/11/04 - 2026/12/01",
@@ -327,23 +167,7 @@
     "dateType": "dated",
     "category": "彩妝聯名"
   },
-  "poya|https://www.poyabuy.com.tw/v2/PromotionEngine/Detail/616638": {
-    "title": "3CE x Kuromi 甜酷雙 11 粉潮魔幻派對 滿額三階贈",
-    "desc": "買單色腮紅贈扇形腮紅刷組；滿 1,099 元贈 Kuromi 聯名甜酷化妝包；滿 1,599 元贈 Kuromi 聯名托特包。",
-    "date": "2026/11/04 - 2026/12/01",
-    "dateNote": "滿額三階贈品",
-    "dateType": "dated",
-    "category": "彩妝聯名"
-  },
   "972b652a3da1fa92": {
-    "title": "19 大指定口腔商品 滿 $299 現折 $30",
-    "desc": "線上買獨家，19 大指定口腔護理品牌（保麗淨 / Ora2 / Crest / EUTHYMOL 等）單筆滿 299 元現折 30 元（可累折）。",
-    "date": "2026/11/04 - 2026/12/01",
-    "dateNote": "可累折 / 口腔護理",
-    "dateType": "dated",
-    "category": "口腔護理"
-  },
-  "poya|https://www.poyabuy.com.tw/v2/PromotionEngine/Detail/617299": {
     "title": "19 大指定口腔商品 滿 $299 現折 $30",
     "desc": "線上買獨家，19 大指定口腔護理品牌（保麗淨 / Ora2 / Crest / EUTHYMOL 等）單筆滿 299 元現折 30 元（可累折）。",
     "date": "2026/11/04 - 2026/12/01",
@@ -359,23 +183,7 @@
     "dateType": "ongoing",
     "category": "品牌服務"
   },
-  "watsons|https://ebooking.watsons.com.tw/index": {
-    "title": "屈臣氏集團 185 周年 同心同行（門市線上預約服務）",
-    "desc": "歡慶屈臣氏集團創立 185 周年，提供門市專業藥師、美容顧問與線上預約服務。",
-    "date": "常態服務（未標示期限）",
-    "dateNote": "品牌形象與線上預約",
-    "dateType": "ongoing",
-    "category": "品牌服務"
-  },
   "f15d0e8474183096": {
-    "title": "Black Friday 網路限定 不限金額 85 折 + 滿 $1,500 折 $100",
-    "desc": "黑五網路限定，全站不限金額享 85 折，折扣後滿 1,500 元再享現折 100 元。",
-    "date": "黑五檔期（依官網公告）",
-    "dateNote": "網路限定 / 黑五加碼",
-    "dateType": "urgent",
-    "category": "黑五特惠"
-  },
-  "watsons|https://www.watsons.com.tw/promo-happyday": {
     "title": "Black Friday 網路限定 不限金額 85 折 + 滿 $1,500 折 $100",
     "desc": "黑五網路限定，全站不限金額享 85 折，折扣後滿 1,500 元再享現折 100 元。",
     "date": "黑五檔期（依官網公告）",
@@ -391,23 +199,7 @@
     "dateType": "ongoing",
     "category": "銀行回饋"
   },
-  "watsons|https://www.watsons.com.tw/service-bankdaybenefit": {
-    "title": "週二刷國泰世華卡 滿 $888 送寵 i 點數 30,000 點",
-    "desc": "每週二刷國泰世華卡單筆滿 NT$888 贈寵 i 點數 30,000 點；CUBE 卡樂饗購實體最高 3.3%、網購/APP 最高 5.3% 回饋。",
-    "date": "每週二銀行日",
-    "dateNote": "刷卡滿額回饋",
-    "dateType": "ongoing",
-    "category": "銀行回饋"
-  },
   "4a5dd25d229057ae": {
-    "title": "瘋搶日限定 熱銷保健品 85 折",
-    "desc": "瘋搶日限定熱銷保健食品（魚油 / 挺立 / 益生菌等，部分商品除外）全面享 85 折。",
-    "date": "瘋搶日限定（依官網公告）",
-    "dateNote": "保健品特惠",
-    "dateType": "urgent",
-    "category": "保健折扣"
-  },
-  "watsons|https://www.watsons.com.tw/promo-happyday-health": {
     "title": "瘋搶日限定 熱銷保健品 85 折",
     "desc": "瘋搶日限定熱銷保健食品（魚油 / 挺立 / 益生菌等，部分商品除外）全面享 85 折。",
     "date": "瘋搶日限定（依官網公告）",
@@ -423,23 +215,7 @@
     "dateType": "ongoing",
     "category": "保健滿贈"
   },
-  "watsons|https://www.watsons.com.tw/promo-health-3": {
-    "title": "保健食品滿 $1,200 送廚房紙巾 / 滿 $2,000 再送 $100 提貨券",
-    "desc": "保健食品單筆滿 1,200 元送屈臣氏廚房紙巾 6 捲入，滿 2,000 元再加送 100 元商品提貨券（單筆不累送）。",
-    "date": "P12 檔期（依官網公告）",
-    "dateNote": "單筆滿額雙重贈",
-    "dateType": "ongoing",
-    "category": "保健滿贈"
-  },
   "e1a2012fa90fcc5f": {
-    "title": "限時加碼 開架彩妝 2 件 77 折 + 滿 $699 送 KINGJUN 鏡梳組",
-    "desc": "網路限定開架彩妝精選品牌（KATE / INTEGRATE / 媚點 / 1028 / solone 等）任 2 件 77 折，滿 699 元送 KINGJUN 壓克力鏡梳組。",
-    "date": "限時加碼（依官網公告）",
-    "dateNote": "網路限定 / 贈品隨機",
-    "dateType": "urgent",
-    "category": "開架彩妝"
-  },
-  "watsons|https://www.watsons.com.tw/promotion-tag/677": {
     "title": "限時加碼 開架彩妝 2 件 77 折 + 滿 $699 送 KINGJUN 鏡梳組",
     "desc": "網路限定開架彩妝精選品牌（KATE / INTEGRATE / 媚點 / 1028 / solone 等）任 2 件 77 折，滿 699 元送 KINGJUN 壓克力鏡梳組。",
     "date": "限時加碼（依官網公告）",
@@ -455,23 +231,7 @@
     "dateType": "ongoing",
     "category": "新客優惠"
   },
-  "watsons|https://www.watsons.com.tw/ecoupon": {
-    "title": "激省神券現領現折 全站折價券最高領 $620",
-    "desc": "新客首購全站 8 折、全站折價券最高領 $620、配送折價券最高省 $240（數量有限領完為止）。",
-    "date": "領完為止（未標示期限）",
-    "dateNote": "全站領券專區",
-    "dateType": "ongoing",
-    "category": "領券折抵"
-  },
   "54cdd78ce0a7e6e8": {
-    "title": "閃電送 1 小時送達 折上折最高 75 折",
-    "desc": "下單選閃電送享全站 85 折，領神券滿 1,000 元再折 120 元（限 10:30-21:00 訂單 1 小時送達）。",
-    "date": "常態加碼（領完為止）",
-    "dateNote": "1 小時極速到貨",
-    "dateType": "ongoing",
-    "category": "閃電送"
-  },
-  "watsons|https://www.watsons.com.tw/promo-cde": {
     "title": "閃電送 1 小時送達 折上折最高 75 折",
     "desc": "下單選閃電送享全站 85 折，領神券滿 1,000 元再折 120 元（限 10:30-21:00 訂單 1 小時送達）。",
     "date": "常態加碼（領完為止）",
@@ -487,23 +247,7 @@
     "dateType": "urgent",
     "category": "黑五家電"
   },
-  "watsons|https://www.watsons.com.tw/promo-pc-5": {
-    "title": "黑五限定 美髮家電下殺 2 折起（BaByliss $499 起）",
-    "desc": "BaByliss 專業沙龍等離子吹風機特價 $499（原價 $2,280）、蒸氣直髮夾特價 $999（原價 $8,980）、BLDC 高速吹風機限時破盤價。",
-    "date": "2026/11/19 - 2026/11/27",
-    "dateNote": "黑五家電快閃 / 售完為止",
-    "dateType": "urgent",
-    "category": "黑五家電"
-  },
   "8d55e6498a90f4b9": {
-    "title": "超派寵粉祭 千件商品混搭買 1 送 1",
-    "desc": "P12 主檔超派寵粉祭，精選千件人氣美妝、保養與日用品混搭享買 1 送 1（贈品以價低者計）。",
-    "date": "P12 主檔（售完為止）",
-    "dateNote": "千件混搭買一送一",
-    "dateType": "ongoing",
-    "category": "買一送一"
-  },
-  "watsons|https://www.watsons.com.tw/promo-mainpromotion-1": {
     "title": "超派寵粉祭 千件商品混搭買 1 送 1",
     "desc": "P12 主檔超派寵粉祭，精選千件人氣美妝、保養與日用品混搭享買 1 送 1（贈品以價低者計）。",
     "date": "P12 主檔（售完為止）",
@@ -519,23 +263,7 @@
     "dateType": "ongoing",
     "category": "電子票券"
   },
-  "watsons|https://www.watsons.com.tw/promo-food-2": {
-    "title": "年末好聚美味上桌 餐飲電子票券同享寵 i 點數回饋",
-    "desc": "王品 / 青花驕 / 西堤 / 饗食天堂 / 夏慕尼 / 果然匯 / 開飯川食堂等餐飲即享券，購買同享寵 i 點數回饋。",
-    "date": "年末餐飲檔期（依官網公告）",
-    "dateNote": "電子票券專區",
-    "dateType": "ongoing",
-    "category": "電子票券"
-  },
   "98a99b4ec008bb44": {
-    "title": "麥當勞即享券開賣 即買即用同享寵 i 會員回饋",
-    "desc": "麥當勞電子即享券線上開賣，即買即用超方便並同享寵 i 會員點數回饋。",
-    "date": "常態開賣（未標示期限）",
-    "dateNote": "電子票券專區",
-    "dateType": "ongoing",
-    "category": "電子票券"
-  },
-  "watsons|https://www.watsons.com.tw/all-brands/list/164658/%E9%BA%A5%E7%95%B6%E5%8B%9E": {
     "title": "麥當勞即享券開賣 即買即用同享寵 i 會員回饋",
     "desc": "麥當勞電子即享券線上開賣，即買即用超方便並同享寵 i 會員點數回饋。",
     "date": "常態開賣（未標示期限）",
@@ -551,23 +279,7 @@
     "dateType": "ongoing",
     "category": "保養滿贈"
   },
-  "watsons|https://www.watsons.com.tw/promo-skin-1": {
-    "title": "換季保養攻略 醫美 / 護膚滿 $599 送 $100 / 滿 $999 送 $200",
-    "desc": "醫美與護膚（含防曬）指定商品單筆滿 599 元送 100 元、滿 999 元送 200 元（單筆不累送）。",
-    "date": "P12 檔期（依官網公告）",
-    "dateNote": "醫美護膚滿額送",
-    "dateType": "ongoing",
-    "category": "保養滿贈"
-  },
   "c7316a5665dc0453": {
-    "title": "髮類指定品牌 滿 $499 送 $50",
-    "desc": "髮類指定品牌（潘婷 / 萊雅 / HAIR RECIPE / TSUBAKI / 多芬 / 566 / 宜若等）單筆滿 499 元送 50 元（不累贈）。",
-    "date": "P12 檔期（依官網公告）",
-    "dateNote": "指定髮品優惠",
-    "dateType": "ongoing",
-    "category": "美髮護理"
-  },
-  "watsons|https://www.watsons.com.tw/promo-hair-2": {
     "title": "髮類指定品牌 滿 $499 送 $50",
     "desc": "髮類指定品牌（潘婷 / 萊雅 / HAIR RECIPE / TSUBAKI / 多芬 / 566 / 宜若等）單筆滿 499 元送 50 元（不累贈）。",
     "date": "P12 檔期（依官網公告）",
@@ -583,23 +295,7 @@
     "dateType": "ongoing",
     "category": "醫美保養"
   },
-  "watsons|https://www.watsons.com.tw/promo-derma-1": {
-    "title": "醫美水光養膚節 醫美 / 護膚滿 $599 送 $100 / 滿 $999 送 $200",
-    "desc": "醫美水光養膚精選商品單筆滿 599 元送 100 元、滿 999 元送 200 元（含 $599 門檻，不累送）。",
-    "date": "P12 檔期（依官網公告）",
-    "dateNote": "醫美專區滿贈",
-    "dateType": "ongoing",
-    "category": "醫美保養"
-  },
   "1b19f2381c8d06e1": {
-    "title": "熱門新品大公開 New Arrival",
-    "desc": "精選屈臣氏最新上架美妝、護髮與個人護理人氣新品一次逛。",
-    "date": "常態專區（未標示期限）",
-    "dateNote": "新品速報",
-    "dateType": "ongoing",
-    "category": "新品專區"
-  },
-  "watsons|https://www.watsons.com.tw/promo-new-1": {
     "title": "熱門新品大公開 New Arrival",
     "desc": "精選屈臣氏最新上架美妝、護髮與個人護理人氣新品一次逛。",
     "date": "常態專區（未標示期限）",
@@ -615,23 +311,7 @@
     "dateType": "lottery",
     "category": "口腔品牌月"
   },
-  "watsons|https://www.watsons.com.tw/flagship-darlie": {
-    "title": "好來全亮白品牌月 滿 $299 抽 Dyson / 滿 $499 折 $50",
-    "desc": "屈臣氏獨家好來全系列滿 $299 登錄抽 Dyson 隨行吹風機；網路限定滿 $499 現折 $50；好來 / 高露潔滿 $1,111 現折 $111。",
-    "date": "品牌月檔期（依官網公告）",
-    "dateNote": "網路限定折扣 + 抽獎",
-    "dateType": "lottery",
-    "category": "口腔品牌月"
-  },
   "e7c3f5511f5eca00": {
-    "title": "超派寵粉祭 你消費我買單 天天抽 11 位最高回饋 $1,111",
-    "desc": "門市限定活動，消費即有機會參加天天抽 11 位，最高回饋等值 $1,111 會員點數。",
-    "date": "P12 主檔（門市限定）",
-    "dateNote": "天天抽 11 位點數回饋",
-    "dateType": "lottery",
-    "category": "門市抽獎"
-  },
-  "watsons|https://www.watsons.com.tw/member-festival": {
     "title": "超派寵粉祭 你消費我買單 天天抽 11 位最高回饋 $1,111",
     "desc": "門市限定活動，消費即有機會參加天天抽 11 位，最高回饋等值 $1,111 會員點數。",
     "date": "P12 主檔（門市限定）",
@@ -655,23 +335,7 @@
     "dateType": "ongoing",
     "category": "保養滿贈"
   },
-  "watsons|https://www.watsons.com.tw/promo-skinmask-o2o": {
-    "title": "小屈肌光膜法月 滿額送膜法券 x3 + 最高送 $200",
-    "desc": "醫美 / 護膚 / 身體保養 / 專櫃消費贈膜法券 x3（限實體門市兌換），護膚 / 醫美滿 $599 送 $100、滿 $999 送 $200。",
-    "date": "P12 檔期（依官網公告）",
-    "dateNote": "實體兌換膜法券",
-    "dateType": "ongoing",
-    "category": "保養滿贈"
-  },
   "f0ab82ce49b6407a": {
-    "title": "寵 i 點數到期提醒 300 點折 1 元 最後倒數",
-    "desc": "提醒會員去年累積之寵 i 點數即將到期歸零，每 300 點可折抵現金 1 元，請把握時間折抵使用。",
-    "date": "2026/12/01 到期失效",
-    "dateNote": "點數歸零倒數提醒！",
-    "dateType": "urgent",
-    "category": "點數提醒"
-  },
-  "watsons|https://7x4.asw.tw/26ptex": {
     "title": "寵 i 點數到期提醒 300 點折 1 元 最後倒數",
     "desc": "提醒會員去年累積之寵 i 點數即將到期歸零，每 300 點可折抵現金 1 元，請把握時間折抵使用。",
     "date": "2026/12/01 到期失效",
@@ -687,23 +351,7 @@
     "dateType": "dated",
     "category": "保健獨家"
   },
-  "watsons|https://www.watsons.com.tw/promo-1111-discount-3": {
-    "title": "活沛多 NutriPlus 小屈爆買節返場 3.0 益生菌 3 件 $1,111",
-    "desc": "屈臣氏獨家活沛多 3.0 益生菌系列 30 包（兒童 / 活力 / 莓萃好益菌）限時返場任選 3 件 $1,111。",
-    "date": "2026/11/19 - 2026/12/02",
-    "dateNote": "屈臣氏獨家 / 返場搶購",
-    "dateType": "dated",
-    "category": "保健獨家"
-  },
   "dbf3551b401053f8": {
-    "title": "口腔好禮三重送 牙刷 / 牙膏 / 漱口水任 2 件送好禮",
-    "desc": "網路限定：牙刷任 2 件送好來白桃花香牙膏 25g、牙膏任 2 件送 Ora2 x SOU SOU 緹花小方巾、漱口水任 2 件送好來綠茶漱口水 50ml x2。",
-    "date": "網路限定（送完為止）",
-    "dateNote": "口腔三重滿件贈",
-    "dateType": "ongoing",
-    "category": "口腔護理"
-  },
-  "watsons|https://www.watsons.com.tw/promo-oral-1": {
     "title": "口腔好禮三重送 牙刷 / 牙膏 / 漱口水任 2 件送好禮",
     "desc": "網路限定：牙刷任 2 件送好來白桃花香牙膏 25g、牙膏任 2 件送 Ora2 x SOU SOU 緹花小方巾、漱口水任 2 件送好來綠茶漱口水 50ml x2。",
     "date": "網路限定（送完為止）",
@@ -719,23 +367,7 @@
     "dateType": "ongoing",
     "category": "開架彩妝"
   },
-  "watsons|https://www.watsons.com.tw/promo-nondemo-1": {
-    "title": "開架彩妝 85 折 滿 $699 送 KINGJUN 壓克力鏡梳組",
-    "desc": "開架彩妝全面 85 折，單筆滿 699 元再贈 KINGJUN 梳勾以壓克力鏡梳組（市值 $299，蠢兔 / 愛心款隨機出貨）。",
-    "date": "P12 檔期（送完為止）",
-    "dateNote": "單筆不累贈",
-    "dateType": "ongoing",
-    "category": "開架彩妝"
-  },
   "40f3cfdfc9a7f6ce": {
-    "title": "野獸國玩具收藏館 11 月開館慶 滿 $1,000 折 $100",
-    "desc": "屈臣氏線上野獸國玩具收藏館開館慶，全館消費滿 1,000 元享現折 100 元。",
-    "date": "2026/11/07 - 2026/11/30",
-    "dateNote": "11 月開館慶",
-    "dateType": "dated",
-    "category": "玩具收藏"
-  },
-  "watsons|https://www.watsons.com.tw/all-brands/list/153583/%E9%87%8E%E7%8D%B8%E5%9C%8B": {
     "title": "野獸國玩具收藏館 11 月開館慶 滿 $1,000 折 $100",
     "desc": "屈臣氏線上野獸國玩具收藏館開館慶，全館消費滿 1,000 元享現折 100 元。",
     "date": "2026/11/07 - 2026/11/30",
@@ -751,23 +383,7 @@
     "dateType": "dated",
     "category": "聯名加購"
   },
-  "watsons|https://www.watsons.com.tw/ssebong-rama": {
-    "title": "SSEBONGRAMA 躺平鴨集點加價購（消費不限金額即可加購）",
-    "desc": "LINE FRIENDS 合作躺平鴨系列療癒周邊商品，消費不限金額即可加價購。",
-    "date": "2026/11/04 - 2026/12/02",
-    "dateNote": "不限金額加價購",
-    "dateType": "dated",
-    "category": "聯名加購"
-  },
   "e4a112c38f0f6a09": {
-    "title": "會員驚爆價 凡士林 $69 / 好自在液體衛生棉 $109 / ARIEL 洗衣膠囊",
-    "desc": "寵 i 會員專屬爆殺價：凡士林修護凝膠 100g 特價 $69（原價 $119）、好自在液體衛生棉 PRO 特價 $109（原價 $239）等。",
-    "date": "P12 會員檔期（依官網公告）",
-    "dateNote": "會員限定爆殺價",
-    "dateType": "ongoing",
-    "category": "會員特惠"
-  },
-  "watsons|https://www.watsons.com.tw/promo-imember-main-1": {
     "title": "會員驚爆價 凡士林 $69 / 好自在液體衛生棉 $109 / ARIEL 洗衣膠囊",
     "desc": "寵 i 會員專屬爆殺價：凡士林修護凝膠 100g 特價 $69（原價 $119）、好自在液體衛生棉 PRO 特價 $109（原價 $239）等。",
     "date": "P12 會員檔期（依官網公告）",
@@ -783,23 +399,7 @@
     "dateType": "ongoing",
     "category": "隱眼預訂"
   },
-  "watsons|https://www.watsons.com.tw/lc/1056": {
-    "title": "官網 / APP 預訂隱形眼鏡 滿 $699 送博士倫保養液 60ml",
-    "desc": "於屈臣氏官網或 APP 預訂隱形眼鏡單筆滿 699 元，贈博士倫瑞霖淨潔多效保養液 60ml（市值 $89，不累贈）。",
-    "date": "P12 檔期（送完為止）",
-    "dateNote": "線上預訂滿額贈",
-    "dateType": "ongoing",
-    "category": "隱眼預訂"
-  },
   "39166eb5d5260e15": {
-    "title": "活沛多 孅見樂錠 90 錠 特價 $990 / 2 件 $1,880",
-    "desc": "屈臣氏獨家活沛多孅見樂錠 90 錠（含專利乳酸菌發酵複合粉、花生膜萃取粉、鉻酵母），特價 $990、2 件 $1,880。",
-    "date": "P12 檔期（依官網公告）",
-    "dateNote": "屈臣氏獨家保健",
-    "dateType": "ongoing",
-    "category": "保健獨家"
-  },
-  "watsons|https://www.watsons.com.tw/p/BP_328975": {
     "title": "活沛多 孅見樂錠 90 錠 特價 $990 / 2 件 $1,880",
     "desc": "屈臣氏獨家活沛多孅見樂錠 90 錠（含專利乳酸菌發酵複合粉、花生膜萃取粉、鉻酵母），特價 $990、2 件 $1,880。",
     "date": "P12 檔期（依官網公告）",
@@ -815,23 +415,7 @@
     "dateType": "ongoing",
     "category": "門市來店禮"
   },
-  "watsons|https://7x4.asw.tw/wcm26P12": {
-    "title": "7x4 會員來店享 週二美麗 / 週三活力 / 週六家庭 銅板價 $2 起",
-    "desc": "門市限定會員來店禮：週二美麗（沐浴乳 / 洗髮露 $2-$9）、週三活力（檸檬酸鈣 / 蒸餾水 $5-$10）、週六家庭（洗衣膠囊 / 餅乾等 $2-$18）。",
-    "date": "每週二 / 三 / 六（門市限定）",
-    "dateNote": "銅板價限量售完為止",
-    "dateType": "ongoing",
-    "category": "門市來店禮"
-  },
   "1975f7df18130b53": {
-    "title": "活沛多集點活動 滿 $200 送 1 點 隨心換好禮",
-    "desc": "屈臣氏獨家活沛多消費滿 200 元贈 1 點，集滿指定點數可兌換精選好禮 3 選 1（點數有效至 2027/01/13）。",
-    "date": "兌換至 2026/12/22",
-    "dateNote": "點數有效至 2027/01/13",
-    "dateType": "dated",
-    "category": "集點兌換"
-  },
-  "watsons|https://www.watsons.com.tw/nutriplus-estamp": {
     "title": "活沛多集點活動 滿 $200 送 1 點 隨心換好禮",
     "desc": "屈臣氏獨家活沛多消費滿 200 元贈 1 點，集滿指定點數可兌換精選好禮 3 選 1（點數有效至 2027/01/13）。",
     "date": "兌換至 2026/12/22",
@@ -847,23 +431,7 @@
     "dateType": "ongoing",
     "category": "滿額贈禮"
   },
-  "poya|https://www.poyabuy.com.tw/v2/ECoupon/List": {
-    "title": "●2611_大BN_週三樂購日",
-    "desc": "線上買獨家 / ご週三（ / 今日限定 / 111 / COUPON / $190 / 免運券* / 滿額金喜 DUO DUO",
-    "date": "依官網公告",
-    "dateNote": "寶雅最新活動",
-    "dateType": "ongoing",
-    "category": "滿額贈禮"
-  },
   "e875a6dd14382194": {
-    "title": "黑五  () 1125髮類",
-    "desc": "BLaCK FNIDEY / 11/25髮瀬商品 / 88折 / （部分商品除外） / 網路 / 限定 / 在同質面中- / 立即腾物＞",
-    "date": "依官網公告",
-    "dateNote": "屈臣氏最新活動",
-    "dateType": "ongoing",
-    "category": "折扣優惠"
-  },
-  "watsons|https://www.watsons.com.tw/promotion-tag/67": {
     "title": "黑五  () 1125髮類",
     "desc": "BLaCK FNIDEY / 11/25髮瀬商品 / 88折 / （部分商品除外） / 網路 / 限定 / 在同質面中- / 立即腾物＞",
     "date": "依官網公告",
@@ -879,23 +447,7 @@
     "dateType": "lottery",
     "category": "抽獎活動"
   },
-  "watsons|https://www.watsons.com.tw/watslive": {
-    "title": "261125    直播 CRM",
-    "desc": "\\會員省錢情報站/ / 週三 / 銅板價 / $5起 / 直播限定抽好禮 / WA11/25目12:00 / 鎖定屈臣氏APP直播 / WEIDER",
-    "date": "依官網公告",
-    "dateNote": "屈臣氏最新活動",
-    "dateType": "lottery",
-    "category": "抽獎活動"
-  },
   "57276f65b00ef8d1": {
-    "title": "線上買獨家 POVA 11/24-11/26",
-    "desc": "線上買獨家 / POVA / 11/24-11/26 / 黑色幸運星 / 天天免費 / 玩1次 / 中獎率100% / 有機會拿1折神券！",
-    "date": "2026/11/24 - 2026/11/26",
-    "dateNote": "短期快閃 / 即將截止",
-    "dateType": "urgent",
-    "category": "折扣優惠"
-  },
-  "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043": {
     "title": "線上買獨家 POVA 11/24-11/26",
     "desc": "線上買獨家 / POVA / 11/24-11/26 / 黑色幸運星 / 天天免費 / 玩1次 / 中獎率100% / 有機會拿1折神券！",
     "date": "2026/11/24 - 2026/11/26",
@@ -911,14 +463,6 @@
     "dateType": "dated",
     "category": "折扣優惠"
   },
-  "poya|https://www.poyabuy.com.tw/page/esthetic": {
-    "title": "線上買獨家 雙效美寧翅 主題商品",
-    "desc": "線上買獨家 / 雙效美寧翅 / 主題商品 / 滿額天天享 / 88折 / OREAL / 滿額金喜 DUO DUO< / 11.25-12.01",
-    "date": "2026/11/25 - 2026/12/01",
-    "dateNote": "寶雅最新活動",
-    "dateType": "dated",
-    "category": "折扣優惠"
-  },
   "7583a1d9434af834": {
     "title": "用泡泡面膜開啟 超強補水第一步 一敷補水，一抹養護 打造年輕水潤肌",
     "desc": "用泡泡面膜開啟 / 超強補水第一步 / 一敷補水，一抹養護 打造年輕水潤肌 / N ANPDRN / o bubble mask / + NMN* / 煥活保濕能量 / 燦1穿健康达阳的蜜健成分",
@@ -927,12 +471,356 @@
     "dateType": "ongoing",
     "category": "精選活動"
   },
-  "poya|https://www.poyabuy.com.tw/SalePage/Index/12187182": {
-    "title": "用泡泡面膜開啟 超強補水第一步 一敷補水，一抹養護 打造年輕水潤肌",
-    "desc": "用泡泡面膜開啟 / 超強補水第一步 / 一敷補水，一抹養護 打造年輕水潤肌 / N ANPDRN / o bubble mask / + NMN* / 煥活保濕能量 / 燦1穿健康达阳的蜜健成分",
+  "8a0cfbbdd6e03f81": {
+    "title": "嗶康是美網購 預約隱形眼鏡 早鳥",
+    "desc": "嗶康是美網購 / 預約隱形眼鏡 / 早鳥 / 3天內 / 霸票成送＄ / 300 / 折價券 限量1000份 / Tma cio kso swox tooin",
+    "date": "2026/10/23 - 2026/12/24",
+    "dateNote": "康是美最新活動",
+    "dateType": "dated",
+    "category": "折扣優惠"
+  },
+  "98c625a1dad6ed0d": {
+    "title": "愛-Shaito 2026 任二件",
+    "desc": "愛-Shaito / 2026 / 任二件 / 11.20 / 12.24 / 聖涎彩妝 / 70折 / PRAGIEL",
+    "date": "依官網公告",
+    "dateNote": "康是美最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "ad26c8b9e31d0e41": {
+    "title": "CRAYON SHINCHAN M2/20-12/20 冬日",
+    "desc": "CRAYON SHINCHAN / M2/20-12/20 / 冬日 / 萌趣時光 / 消費滿 $388 即可加腾 不必等集點 / Spend $388 to qualify for an add-on purchase of following items. / © USUIYOSHITO 199",
+    "date": "2026/2/20 - 2026/12/20",
+    "dateNote": "康是美最新活動",
+    "dateType": "dated",
+    "category": "滿額贈禮"
+  },
+  "38f2b955af02d98d": {
+    "title": "冬季美肌$ 聖誕嘉年華 PAULKS CHOXCE",
+    "desc": "冬季美肌$ / 聖誕嘉年華 / PAULKS CHOXCE / ULTRA / HYDRATING / EE / 11.20—12.24 指定保養商品' / 滿＄888送",
+    "date": "依官網公告",
+    "dateNote": "康是美最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "de531ec8d6fefe41": {
+    "title": "愛•Shariza 2026 11.20",
+    "desc": "愛•Shariza / 2026 / 11.20 / → 12.24 / 任2件 / 香水，香氛。 / 莆88折 / Abib",
+    "date": "依官網公告",
+    "dateNote": "康是美最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "fa4d7836ad62ad42": {
+    "title": "11.20 → 12.24 美髮",
+    "desc": "11.20 / → 12.24 / 美髮 / 指足 / 商品 / 任2件 / 送100元 / 現金折價券",
+    "date": "依官網公告",
+    "dateNote": "康是美最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "7438a1d794158ea7": {
+    "title": "11.20~ 12.24 衛生棉， 滿$299",
+    "desc": "11.20~ 12.24 / 衛生棉， / 滿$299 / \\送$30F / 部分商品不參與活動，且不與其他折扣或折價券同時併用，詳細活動辦法依本公司公告為主•凡參與本活動，即誤同承認及接要本活動注京事項及相關規定，本公司保有隨時修正、藍停或終止本活動之概利， / 若有未盡事宜，悉依本公司之相關公告",
+    "date": "2026/11/20 - 2026/12/24",
+    "dateNote": "康是美最新活動",
+    "dateType": "dated",
+    "category": "折扣優惠"
+  },
+  "bedb86575e2189f4": {
+    "title": "COSMED 藥品把關 備藥齊全",
+    "desc": "COSMED / 藥品把關 / 備藥齊全 / 免費 / 血壓量測 / 各大醫院、診所、牙科 / 處方箋調劑領藥 / 藥局聯繫方式請點我",
+    "date": "依官網公告",
+    "dateNote": "康是美最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "399ef1ecaa428c7e": {
+    "title": "愛•Sharine 2026 UNIKCY",
+    "desc": "愛•Sharine / 2026 / UNIKCY / 11.20-12.24 網/限定 / 單筆消費折扣後 / 満$1000¥88折（lまa） / 滿＄2000折＄200（日税） / PRASIE",
+    "date": "2026/11/20 - 2026/12/24",
+    "dateNote": "康是美最新活動",
+    "dateType": "dated",
+    "category": "折扣優惠"
+  },
+  "b0418f02af5cc4dc": {
+    "title": "COSMED 康是美一 超級品牌週 HALEON",
+    "desc": "COSMED 康是美一 / 超級品牌週 / HALEON / 斑立 / 舒酸定 / 保麗淨 / ICaSHPag / 可累贈，每會員上限6500點 OPENPOiNT",
+    "date": "2026/11/23 - 2026/11/26",
+    "dateNote": "短期快閃 / 即將截止",
+    "dateType": "urgent",
+    "category": "滿額贈禮"
+  },
+  "77d816aee03e9edb": {
+    "title": "一COSMED 康是美一 神級品牌日 靠得住",
+    "desc": "一COSMED 康是美一 / 神級品牌日 / 靠得住 / Kotex / 11.23 ▶11.25 / 網購限定 / 不限金額 / 88折",
+    "date": "2026/11/23 - 2026/11/25",
+    "dateNote": "短期快閃 / 即將截止",
+    "dateType": "urgent",
+    "category": "折扣優惠"
+  },
+  "a9665de3f5baeffb": {
+    "title": "康是美中 2026.11.09開始販售（限定門市） 好集窝",
+    "desc": "康是美中 / 2026.11.09開始販售（限定門市） / 好集窝 / JOGUMAN / 建議售價 / 一抽350元 / 共80+1抽 / 注意事项：上本活動商品限店版］",
+    "date": "依官網公告",
+    "dateNote": "康是美最新活動",
+    "dateType": "lottery",
+    "category": "抽獎活動"
+  },
+  "d870333f6302146a": {
+    "title": "©mikolu 18吋行李 限量10名/",
+    "desc": "©mikolu / 18吋行李 / 限量10名/ / 療療同行獎 / 手機掛繩（3枚隨提） 5,0008 / mikolu美好時光 / 即日起開賣～抽完為止 / *＊幸運綻放獎",
+    "date": "即日起 - 抽完為止",
+    "dateNote": "康是美最新活動",
+    "dateType": "lottery",
+    "category": "抽獎活動"
+  },
+  "fe1d076c947d6811": {
+    "title": "Jinart 鬼假鬼假怪 靈魂登出獎",
+    "desc": "Jinart / 鬼假鬼假怪 / 靈魂登出獎 / 50元 / 描抽樂 / 即日起開抽～抽完為止 / 亚魂出走軟膠夜煙 / 段量50個",
+    "date": "即日起 - 抽完為止",
+    "dateNote": "康是美最新活動",
+    "dateType": "lottery",
+    "category": "抽獎活動"
+  },
+  "917f19f12f4b58bb": {
+    "title": "線上買獨家 - FamilyMart 賢$390元免運",
+    "desc": "線上買獨家 / - FamilyMart / 賢$390元免運 / 11/23-11/27 請你喝 Let's @ Cafe / 經典熱美式 / Let's Cafe / CLASSIG",
+    "date": "2026/11/23 - 2026/11/27",
+    "dateNote": "短期快閃 / 即將截止",
+    "dateType": "urgent",
+    "category": "精選活動"
+  },
+  "6e81c1bc1e38a194": {
+    "title": "商企_A區-1_鐘紡",
+    "desc": "Is na / HSM / ATE / TOKYO / NAN4 / 11.04凡購買凱婷絕美綻放睫毛膏 / 12.01聯名款NA系列商品 / ATExNAN",
     "date": "依官網公告",
     "dateNote": "寶雅最新活動",
     "dateType": "ongoing",
     "category": "精選活動"
+  },
+  "0f7ec9575b74b0b8": {
+    "title": "商企_A區-2_3CE",
+    "desc": "CE / 11/04-12/01 / STYLENANDA / 甜酷雙11粉潮魔幻派對 / ※買單色腮紅 / w滿$1099 / ※滿＄1599 / 原形腮紅刷組",
+    "date": "2026/11/04 - 2026/12/01",
+    "dateNote": "寶雅最新活動",
+    "dateType": "dated",
+    "category": "滿額贈禮"
+  },
+  "729ad236c631f629": {
+    "title": "●2611_大BN_口腔商品滿$299折30",
+    "desc": "線上買獨家 / 79大指定口腔商品 / 11.04-12.01 / 滿$299 / 現折$30c原別） / 美白牙贴-温和型 / 保麗淨 / 牙套與維持罷適用，",
+    "date": "2026/11/04 - 2026/12/01",
+    "dateNote": "寶雅最新活動",
+    "dateType": "dated",
+    "category": "折扣優惠"
+  },
+  "bba194e8ecd63578": {
+    "title": "260605   NewUniform",
+    "desc": "餅立粉 / 11841 / 屈臣氏集图 / 185円 / 同心同行 / Welcome to Watsons / 在同真面中-",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "fc4ac15ae6af3a0d": {
+    "title": "民生用品髮類用品   右邊",
+    "desc": "髮類商品 / 指定品牌滿$499 / 送$50 / （單筆不素贈。換購、買一送一等部分商品除外。 / PANTENE / CIELO / 宜若 / SAHOLEA",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "fadd72ed49fae3a5": {
+    "title": "黑五加碼美髮家電",
+    "desc": "11/19▶11/27 / 黑五限定 / 色美烤家習殺2折組！ / （數量有限，售完為止•） / 原價$2280 / 特價 / $499 / BaByliss專業沙龍等離子柔髮",
+    "date": "2026/11/19 - 2026/11/27",
+    "dateNote": "短期快閃 / 即將截止",
+    "dateType": "urgent",
+    "category": "折扣優惠"
+  },
+  "12f6a90c7007e325": {
+    "title": "主檔 超派寵粉祭",
+    "desc": "©Chrs / 超派寵粉祭 / 千件 / 混搭、 / 買1送1 / ※贈品以價低者計，數量有限，售完為止※ / Neu er / 超姐",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "35b6f5ca333c94fd": {
+    "title": "261120    年末好聚美味上桌",
+    "desc": "年末好美味上桌 / 同享寵i點數回饋 / 警食天堂 / 王品 / CHA夏 / MO募 / NIX尼 / 青/花驕®",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "8653ca393d594c59": {
+    "title": "261008    票券 麥當勞",
+    "desc": "变當勞 / 即享券開賣啦！ / 即買即用超方便 / ※同享龍i會員回饋 / GCaroalh",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "12749cc00e00b5f4": {
+    "title": "保健食品",
+    "desc": "保健食品 / 滿$1200 / 滿$2000再送 / $100 / 屈臣氏廚房紙巾6捲入 / 商品提貨券 / 單筆不累送，贈品數量有限，送完為止 / ROBIOTIC",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "afb36630851b4ce2": {
+    "title": "醫美護膚SKIN",
+    "desc": "_季保養攻略 / 醫美/護膚（含防曬） / 滿$599顆 / 滿$999顆 / $100 / $200 / （$50*2張） / （巴含$599送$100）",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "745d450eef4084e1": {
+    "title": "醫美護膚 Derma",
+    "desc": "醫美水光養虞街 / 醫美/護膚（含防曬） / 滿$599號 / 滿$999顆 / $100$2001 / （$50*2張） / （已含$599送$100） / 部分商品除外。單筆不累選。",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "b8466ff4dfb32023": {
+    "title": "新品大公開   A",
+    "desc": "熱門新品 / 大公開！ / New Arrival / TSIO / HAIR RECDE / divnio / HAND / CREAM",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "a4bf349fe5852d1b": {
+    "title": "Y26 WS P12品牌月 官網 3 EC首頁px",
+    "desc": "DARLIE / 好来 / 好來全系列商品 / 滿$299登錄（ / （新向後］ / 滿＄499 / 【新知後〉 / 好来全亮白品牌月個標有目）",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "f64e44580911108a": {
+    "title": "超派寵粉祭  2",
+    "desc": "Imeeer / OCis / 超派寵粉祭 / 最高回饋 / 等值會員點數 / 門市 / 限定 / 我買單",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "6bbc56a6d556b7d4": {
+    "title": "25P09神券專區",
+    "desc": "激省神券現領現折！o / 首購禮 / 全站8折 / 全站折價券 / 配送折價券 / 最高領 / 最高省 / $620",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "c012bc1627ffc38c": {
+    "title": "小屈肌光膜法月  ()",
+    "desc": "醫美/護膚/ / 身體保養/專櫃 / 送膜法券x3 / （限實體門市兌換） / 小屈肌光膜法月 / 護膚/醫美 / 滿$5991 / 滿$999！",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "476181e2ff0d2b20": {
+    "title": "點數倒數o  EC",
+    "desc": "寵i點數到期提醒 / 點數變現金 / 最後倒數 / 300點折1元 / 去年累點於2026/12/1失效",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "cc7c4db1500d224d": {
+    "title": "P12 雙11加碼活動",
+    "desc": "NutriPlus / 活沛多 / Kids Probiotic / 免童益生菌 / 小韭爆買節 / 返場搶膊 / 11/19-12/2 / 屈臣氏",
+    "date": "2026/11/19 - 2026/12/2",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "dated",
+    "category": "精選活動"
+  },
+  "93035b511615c7ba": {
+    "title": "口腔商品5大品牌",
+    "desc": "口腔好禮三重送 / 牙刷任2件送 / 好來白桃花香 / 牙膏25g / 網路 / 限定 / 牙膏任2件送 / Ora2xSOUSOU",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "68d918293e06b136": {
+    "title": "開架彩妝85折  ()",
+    "desc": "開架彩妝85折 / 滿＄699送 / KINGJUN / 梳勾以壓克力 / 鏡梳組 / -蠢兔款/愛心款 / （市值$299） / （單筆不累赠、贈品隨機出貨，送完為止）",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "92692cd96e6a2678": {
+    "title": "野獸國 11月開館慶 11.7-11.30玩具收藏館",
+    "desc": "野獸國 / 11月開館慶 / 11.7-11.30玩具收藏館 / 全館滿$1,000 / 現折$100 / 在同質面中",
+    "date": "2026/11/7 - 2026/11/30",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "dated",
+    "category": "折扣優惠"
+  },
+  "604bfcfdafb459de": {
+    "title": "261104    集點 躺平鴨",
+    "desc": "Duck / 躺羸學 / SSEBONGRAMA / 躺平鴨系列商品加價溝中 / 2026/11/4-12/2 消費不限金額即可加購 / Wrrr / 在同質面中- / WHAT",
+    "date": "2026/11/4 - 2026/12/2",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "dated",
+    "category": "精選活動"
+  },
+  "de72e9d725c8268e": {
+    "title": "會員爆殺價",
+    "desc": "會員驚爆價 / 經典凡士林 / 熱銷百萬瓶 / Vaseline / HEALNG Jncr® / mulegu Recommersea / $69 / Vaseline凡土林經典高純",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "9b281a10e3880b98": {
+    "title": "261104 P12   隱形眼鏡B",
+    "desc": "屈臣氏言網/APP / 預訂隱形眼鏡 / 滿$699糖 / 博士倫瑞霖淨潔 / 多效保養液60ml / （單筆不累贈，數量有限，送完為止） / AONANCED / BAUSCN+LONE",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
+  },
+  "971d7590d278579c": {
+    "title": "P12 孅見樂錠90錠",
+    "desc": "NutriPlus / 活沛多 / REY / GOOD / LIFE / PLUS / MIN / 孅見樂錠90錠｜特價＄990",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "cebb89f9da007504": {
+    "title": "玉山銀行 wed",
+    "desc": "玉山銀行 / Unicard® / 百變生活 由你開始 / 週三 / 刷玉山信用卡單筆滿888元（折扣後） / 送3萬點寵i點數（單筆不累送） / 在同質面中- / 謹慎理財 信用至上",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "折扣優惠"
+  },
+  "c3ec643e4e45c807": {
+    "title": "12 7x4來店享",
+    "desc": "TUE / 週二 / 7x4會員來店享 / 丫美麗 / 商品2選1） / WED / 週三 / 1活力",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "精選活動"
+  },
+  "6c80a24329952b23": {
+    "title": "P10集點活動",
+    "desc": "NutriPlus / 活沛多 / 滿$200款 / 7點 / 本季商品兌換至 / 2026/12/22 / 黑5亮健康 隨心換好禮1 / 屈臣氏",
+    "date": "依官網公告",
+    "dateNote": "屈臣氏最新活動",
+    "dateType": "ongoing",
+    "category": "滿額贈禮"
   }
 }
