@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at": "2026-11-25 10:21",
+  "updated_at": "2026-11-25 11:09",
   "count": 50,
   "sigs": [
     "0f7ec9575b74b0b8",
@@ -508,25 +508,9 @@
     {
       "store": "watsons",
       "storeName": "屈臣氏",
-      "sig": "fadd72ed49fae3a5",
-      "href_key": "watsons|https://www.watsons.com.tw/promo-pc-5",
-      "img_rel": "images/watsons_04.jpg",
-      "title": "黑五限定 美髮家電下殺 2 折起（BaByliss $499 起）",
-      "desc": "BaByliss 專業沙龍等離子吹風機特價 $499（原價 $2,280）、蒸氣直髮夾特價 $999（原價 $8,980）、BLDC 高速吹風機限時破盤價。",
-      "date": "2026/11/19 - 2026/11/27",
-      "dateNote": "黑五家電快閃 / 售完為止",
-      "dateType": "urgent",
-      "category": "黑五家電",
-      "href": "https://www.watsons.com.tw/promo-pc-5",
-      "is_new": false,
-      "first_seen": "2026-11-24"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
       "sig": "fc4ac15ae6af3a0d",
       "href_key": "watsons|https://www.watsons.com.tw/promo-hair-2",
-      "img_rel": "images/watsons_05.jpg",
+      "img_rel": "images/watsons_04.jpg",
       "title": "髮類指定品牌 滿 $499 送 $50",
       "desc": "髮類指定品牌（潘婷 / 萊雅 / HAIR RECIPE / TSUBAKI / 多芬 / 566 / 宜若等）單筆滿 499 元送 50 元（不累贈）。",
       "date": "P12 檔期（依官網公告）",
@@ -534,6 +518,22 @@
       "dateType": "ongoing",
       "category": "美髮護理",
       "href": "https://www.watsons.com.tw/promo-hair-2",
+      "is_new": false,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "fadd72ed49fae3a5",
+      "href_key": "watsons|https://www.watsons.com.tw/promo-pc-5",
+      "img_rel": "images/watsons_05.jpg",
+      "title": "黑五限定 美髮家電下殺 2 折起（BaByliss $499 起）",
+      "desc": "BaByliss 專業沙龍等離子吹風機特價 $499（原價 $2,280）、蒸氣直髮夾特價 $999（原價 $8,980）、BLDC 高速吹風機限時破盤價。",
+      "date": "2026/11/19 - 2026/11/27",
+      "dateNote": "黑五家電快閃 / 售完為止",
+      "dateType": "urgent",
+      "category": "黑五家電",
+      "href": "https://www.watsons.com.tw/promo-pc-5",
       "is_new": false,
       "first_seen": "2026-11-24"
     },
