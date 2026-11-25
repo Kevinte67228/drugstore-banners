@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at": "2026-11-25 11:49",
+  "updated_at": "2026-11-25 11:54",
   "count": 50,
   "sigs": [
     "0f7ec9575b74b0b8",
@@ -348,22 +348,6 @@
     {
       "store": "poya",
       "storeName": "寶雅",
-      "sig": "57276f65b00ef8d1",
-      "href_key": "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043",
-      "img_rel": "images/poya_02.jpg",
-      "title": "線上買獨家 POVA 11/24-11/26",
-      "desc": "線上買獨家 / POVA / 11/24-11/26 / 黑色幸運星 / 天天免費 / 玩1次 / 中獎率100% / 有機會拿1折神券！",
-      "date": "2026/11/24 - 2026/11/26",
-      "dateNote": "短期快閃 / 即將截止",
-      "dateType": "urgent",
-      "category": "折扣優惠",
-      "href": "https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043",
-      "is_new": true,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "poya",
-      "storeName": "寶雅",
       "sig": "5b2f0c6714794dbc",
       "href_key": "poya|https://www.poyabuy.com.tw/page/esthetic",
       "img_rel": "images/poya_03.jpg",
@@ -392,6 +376,22 @@
       "href": "https://www.poyabuy.com.tw/SalePage/Index/12187182",
       "is_new": true,
       "first_seen": "2026-11-25"
+    },
+    {
+      "store": "poya",
+      "storeName": "寶雅",
+      "sig": "57276f65b00ef8d1",
+      "href_key": "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043",
+      "img_rel": "images/poya_02.jpg",
+      "title": "線上買獨家 POVA 11/24-11/26",
+      "desc": "線上買獨家 / POVA / 11/24-11/26 / 黑色幸運星 / 天天免費 / 玩1次 / 中獎率100% / 有機會拿1折神券！",
+      "date": "2026/11/24 - 2026/11/26",
+      "dateNote": "短期快閃 / 即將截止",
+      "dateType": "urgent",
+      "category": "折扣優惠",
+      "href": "https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044043",
+      "is_new": false,
+      "first_seen": "2026-11-24"
     },
     {
       "store": "poya",
