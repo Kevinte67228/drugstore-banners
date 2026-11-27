@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-26",
-  "updated_at": "2026-11-26 09:00",
-  "count": 45,
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27 09:00",
+  "count": 47,
   "sigs": [
     "0f7ec9575b74b0b8",
     "12749cc00e00b5f4",
     "12f6a90c7007e325",
-    "1bc409413d6d13eb",
-    "23b59d51e2c04f38",
+    "1ab5b736bc0e244e",
     "35b6f5ca333c94fd",
     "38f2b955af02d98d",
     "399ef1ecaa428c7e",
@@ -20,9 +19,10 @@
     "729ad236c631f629",
     "7438a1d794158ea7",
     "745d450eef4084e1",
+    "7933905c6dc08690",
+    "8564e67a602c261d",
     "8653ca393d594c59",
     "8a0cfbbdd6e03f81",
-    "917f19f12f4b58bb",
     "92692cd96e6a2678",
     "93035b511615c7ba",
     "971d7590d278579c",
@@ -32,12 +32,11 @@
     "a9665de3f5baeffb",
     "ad26c8b9e31d0e41",
     "afb36630851b4ce2",
-    "b0d38118b96d8e6a",
     "b8466ff4dfb32023",
     "bba194e8ecd63578",
     "bedb86575e2189f4",
     "c012bc1627ffc38c",
-    "c5bfbe0f3bfa4b24",
+    "ca4dc196a41ca46a",
     "cc7c4db1500d224d",
     "cosmed|https://bmai.app/3ce2a59d",
     "cosmed|https://bmai.app/52c3b483",
@@ -54,20 +53,23 @@
     "d870333f6302146a",
     "de531ec8d6fefe41",
     "de72e9d725c8268e",
-    "deac642fd3f84c44",
+    "e00a58296a929002",
+    "e10b843dea7e0ea6",
+    "ebc708ecad43988f",
+    "ed768d274dbcf635",
     "f64e44580911108a",
     "fa4d7836ad62ad42",
     "fadd72ed49fae3a5",
     "fc4ac15ae6af3a0d",
     "fe1d076c947d6811",
     "poya|https://www.poyabuy.com.tw/SalePage/Index/12265407",
-    "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044048",
     "poya|https://www.poyabuy.com.tw/page/11-2_FamilyMart",
-    "poya|https://www.poyabuy.com.tw/page/ANEWGLOWBEGINS",
-    "poya|https://www.poyabuy.com.tw/page/DailyEnergy",
+    "poya|https://www.poyabuy.com.tw/page/esthetic",
+    "poya|https://www.poyabuy.com.tw/site/poyaoriginal",
+    "poya|https://www.poyabuy.com.tw/v2/ECoupon/List",
     "poya|https://www.poyabuy.com.tw/v2/PromotionEngine/Detail/616638",
     "poya|https://www.poyabuy.com.tw/v2/PromotionEngine/Detail/617299",
-    "poya|https://www.poyabuy.com.tw/v2/official/SalePageCategory/566462?sortMode=Sales",
+    "poya|https://www.poyabuy.com.tw/v2/official/SalePageCategory/604760?sortMode=Sales",
     "watsons|https://7x4.asw.tw/26ptex",
     "watsons|https://7x4.asw.tw/mpc12",
     "watsons|https://ebooking.watsons.com.tw/index",
@@ -91,6 +93,7 @@
     "watsons|https://www.watsons.com.tw/promo-pc-5",
     "watsons|https://www.watsons.com.tw/promo-skin-1",
     "watsons|https://www.watsons.com.tw/promo-skinmask-o2o",
+    "watsons|https://www.watsons.com.tw/promotion-tag/67",
     "watsons|https://www.watsons.com.tw/service-bankdaybenefit",
     "watsons|https://www.watsons.com.tw/ssebong-rama"
   ],
@@ -109,7 +112,7 @@
       "category": "折扣優惠",
       "href": "https://bmai.app/8c79cbd9",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -125,7 +128,7 @@
       "category": "折扣優惠",
       "href": "https://bmai.app/e8149d78",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -141,7 +144,7 @@
       "category": "滿額贈禮",
       "href": "https://bmai.app/75d0cf15",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -157,7 +160,7 @@
       "category": "滿額贈禮",
       "href": "https://bmai.app/90c0d765",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -173,7 +176,7 @@
       "category": "折扣優惠",
       "href": "https://bmai.app/52dcb7fc",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -189,7 +192,7 @@
       "category": "折扣優惠",
       "href": "https://bmai.app/3ce2a59d",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -205,7 +208,7 @@
       "category": "折扣優惠",
       "href": "https://bmai.app/52c3b483",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -221,7 +224,7 @@
       "category": "精選活動",
       "href": "https://www.cosmed.com.tw/news_detail.aspx?id=1848",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -237,7 +240,7 @@
       "category": "折扣優惠",
       "href": "https://bmai.app/c1dabe1e",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -253,7 +256,7 @@
       "category": "抽獎活動",
       "href": "https://www.cosmed.com.tw/news_detail.aspx?id=3137",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -269,7 +272,7 @@
       "category": "抽獎活動",
       "href": "https://www.cosmed.com.tw/news_detail.aspx?id=3132",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "cosmed",
@@ -285,87 +288,87 @@
       "category": "抽獎活動",
       "href": "https://www.cosmed.com.tw/news_detail.aspx?id=3133",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "poya",
       "storeName": "寶雅",
-      "sig": "1bc409413d6d13eb",
-      "href_key": "poya|https://www.poyabuy.com.tw/page/DailyEnergy",
+      "sig": "7933905c6dc08690",
+      "href_key": "poya|https://www.poyabuy.com.tw/v2/ECoupon/List",
+      "img_rel": "images/poya_01.jpg",
+      "title": "今日限定： 黑色星期五 7折",
+      "desc": "線上買獨家 / 今日限定： / 黑色星期五 / 7折 / 免運劵 / FREE SHIPPING / 膨菜 / 搶劵",
+      "date": "依官網公告",
+      "dateNote": "寶雅最新活動",
+      "dateType": "ongoing",
+      "category": "折扣優惠",
+      "href": "https://www.poyabuy.com.tw/v2/ECoupon/List",
+      "is_new": true,
+      "first_seen": "2026-11-27"
+    },
+    {
+      "store": "poya",
+      "storeName": "寶雅",
+      "sig": "ed768d274dbcf635",
+      "href_key": "poya|https://www.poyabuy.com.tw/page/esthetic",
       "img_rel": "images/poya_02.jpg",
-      "title": "元氣保健 聯合慶 指定醫美商品",
-      "desc": "線上買獨家 / 元氣保健 / 聯合慶 / 指定醫美商品 / 最高享 / 超殺現折 ＄111 / 12% / 滿額金喜 DUO DUO",
-      "date": "2026/11/04 - 2026/12/01",
+      "title": "雙效美寧翅 主題商品 滿額天天享",
+      "desc": "線上買獨家 / 雙效美寧翅 / 主題商品 / 滿額天天享 / 88折 / OREAL / 滿額金喜 DUO DUO< / 11.25-12.01",
+      "date": "2026/11/25 - 2026/12/01",
       "dateNote": "寶雅最新活動",
       "dateType": "dated",
       "category": "折扣優惠",
-      "href": "https://www.poyabuy.com.tw/page/DailyEnergy",
+      "href": "https://www.poyabuy.com.tw/page/esthetic",
       "is_new": true,
-      "first_seen": "2026-11-26"
+      "first_seen": "2026-11-27"
     },
     {
       "store": "poya",
       "storeName": "寶雅",
-      "sig": "b0d38118b96d8e6a",
-      "href_key": "poya|https://www.poyabuy.com.tw/page/ANEWGLOWBEGINS",
+      "sig": "ca4dc196a41ca46a",
+      "href_key": "poya|https://www.poyabuy.com.tw/v2/official/SalePageCategory/604760?sortMode=Sales",
       "img_rel": "images/poya_03.jpg",
-      "title": "Relove A NEW GLOW BEGINS 全效煥膚盛典",
-      "desc": "線上買獨家 / Relove / A NEW GLOW BEGINS / 全效煥膚盛典 / 指定醫美商品 / 現升$100 / COUPON / 滿額金喜 DUO DUOS",
-      "date": "依官網公告",
+      "title": "11.18-12.01 瘋黑五•狂歡睛 LANEIGE",
+      "desc": "線上買獨家 / 11.18-12.01 / 瘋黑五•狂歡睛 / LANEIGE / 主題商品滿$699 / 點數回饋 / 912% / 23cm1日m",
+      "date": "2026/11/18 - 2026/12/01",
       "dateNote": "寶雅最新活動",
-      "dateType": "ongoing",
-      "category": "滿額贈禮",
-      "href": "https://www.poyabuy.com.tw/page/ANEWGLOWBEGINS",
-      "is_new": true,
-      "first_seen": "2026-11-26"
-    },
-    {
-      "store": "poya",
-      "storeName": "寶雅",
-      "sig": "deac642fd3f84c44",
-      "href_key": "poya|https://www.poyabuy.com.tw/v2/official/SalePageCategory/566462?sortMode=Sales",
-      "img_rel": "images/poya_05.jpg",
-      "title": "CNP Laboratory 韓國醫美權威保養專家 KJOIEJOCET dNS",
-      "desc": "CNP Laboratory / 韓國醫美權威保養專家 / KJOIEJOCET dNS / 7折 / 蜂理蔬豐彈河安版15ml/原價$1,50/特價＄735 / 蜂理能量彈湯修護霜75ml/經價$.，250/特價$875 / 蜂膠安瓶×蜂膠修護霜 / 深層滋養",
-      "date": "依官網公告",
-      "dateNote": "寶雅最新活動",
-      "dateType": "ongoing",
+      "dateType": "dated",
       "category": "折扣優惠",
-      "href": "https://www.poyabuy.com.tw/v2/official/SalePageCategory/566462?sortMode=Sales",
+      "href": "https://www.poyabuy.com.tw/v2/official/SalePageCategory/604760?sortMode=Sales",
       "is_new": true,
-      "first_seen": "2026-11-26"
+      "first_seen": "2026-11-27"
     },
     {
       "store": "poya",
       "storeName": "寶雅",
-      "sig": "c5bfbe0f3bfa4b24",
-      "href_key": "poya|https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044048",
-      "img_rel": "images/poya_01.jpg",
-      "title": "黑色幸運星 天天免費 玩1次",
-      "desc": "線上買獨家 / POYA / 11/24-11/26 / 黑色幸運星 / 天天免費 / 玩1次 / 中獎率100% / 有機會拿1折神券！",
-      "date": "2026/11/24 - 2026/11/26",
-      "dateNote": "短期快閃 / 即將截止",
-      "dateType": "urgent",
-      "category": "折扣優惠",
-      "href": "https://www.poyabuy.com.tw/V2/GameModule/40916/gpc001/2026111044048",
-      "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "poya",
-      "storeName": "寶雅",
-      "sig": "917f19f12f4b58bb",
-      "href_key": "poya|https://www.poyabuy.com.tw/page/11-2_FamilyMart",
+      "sig": "e00a58296a929002",
+      "href_key": "poya|https://www.poyabuy.com.tw/site/poyaoriginal",
       "img_rel": "images/poya_04.jpg",
-      "title": "線上買獨家 - FamilyMart 賢$390元免運",
-      "desc": "線上買獨家 / - FamilyMart / 賢$390元免運 / 11/23-11/27 請你喝 Let's @ Cafe / 經典熱美式 / Let's Cafe / CLASSIG",
+      "title": "PURE+ FUNCTIONAI APPLE VINEOAR",
+      "desc": "線上買獨家 / PURE+ / FUNCTIONAI / APPLE VINEOAR / I洽獨家推薦 / PAZZLE YOUR BEAUS / *** / 週五限定",
+      "date": "依官網公告",
+      "dateNote": "寶雅最新活動",
+      "dateType": "ongoing",
+      "category": "精選活動",
+      "href": "https://www.poyabuy.com.tw/site/poyaoriginal",
+      "is_new": true,
+      "first_seen": "2026-11-27"
+    },
+    {
+      "store": "poya",
+      "storeName": "寶雅",
+      "sig": "8564e67a602c261d",
+      "href_key": "poya|https://www.poyabuy.com.tw/page/11-2_FamilyMart",
+      "img_rel": "images/poya_05.jpg",
+      "title": "FamilyMart 賢$390元免運 11/23-11/27 請你喝 Let's @",
+      "desc": "線上買獨家 / FamilyMart / 賢$390元免運 / 11/23-11/27 請你喝 Let's @ Cafe / 經典熱美式 / Let's Cafe / CLASSIG",
       "date": "2026/11/23 - 2026/11/27",
       "dateNote": "短期快閃 / 即將截止",
       "dateType": "urgent",
       "category": "精選活動",
       "href": "https://www.poyabuy.com.tw/page/11-2_FamilyMart",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "poya",
@@ -381,7 +384,7 @@
       "category": "精選活動",
       "href": "https://www.poyabuy.com.tw/SalePage/Index/12265407",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "poya",
@@ -397,7 +400,7 @@
       "category": "滿額贈禮",
       "href": "https://www.poyabuy.com.tw/v2/PromotionEngine/Detail/616638",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "poya",
@@ -413,39 +416,55 @@
       "category": "折扣優惠",
       "href": "https://www.poyabuy.com.tw/v2/PromotionEngine/Detail/617299",
       "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "23b59d51e2c04f38",
-      "href_key": "watsons|https://www.watsons.com.tw/service-bankdaybenefit",
-      "img_rel": "images/watsons_24.jpg",
-      "title": "oj。 滙豐 HSBC",
-      "desc": "oj。 / 滙豐 / HSBC / 活動時間：115/1/1-12/31 / 週四刷匯豐卡單筆滿$888元（含）以上 / 送3萬屈臣氏龐i點數 / 謹慎理財•信用至上 / 在同真面中",
-      "date": "2026/1/1 - 2026/12/31",
-      "dateNote": "屈臣氏最新活動",
-      "dateType": "dated",
-      "category": "滿額贈禮",
-      "href": "https://www.watsons.com.tw/service-bankdaybenefit",
-      "is_new": true,
       "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
-      "sig": "3a2f363eb67508da",
-      "href_key": "watsons|https://7x4.asw.tw/mpc12",
-      "img_rel": "images/watsons_25.jpg",
-      "title": "點數換勝會員點爆價 兌點享超值銅板換購價！折抵300點=$1 庄◎",
-      "desc": "點數換勝會員點爆價 / 兌點享超值銅板換購價！折抵300點=$1 / 庄◎ / 門市 / 限定 / 屈臣氏 / 屈臣氏抗菌潔淨 / 柔濕巾20片-粉/綠/藍/黃",
+      "sig": "e10b843dea7e0ea6",
+      "href_key": "watsons|https://www.watsons.com.tw/promotion-tag/67",
+      "img_rel": "images/watsons_02.jpg",
+      "title": "BLaCK FhDDay 11/27 健康商品 88號",
+      "desc": "BLaCK FhDDay / 11/27 健康商品 / 88號 / 網路 / 限定",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "精選活動",
+      "href": "https://www.watsons.com.tw/promotion-tag/67",
+      "is_new": true,
+      "first_seen": "2026-11-27"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "ebc708ecad43988f",
+      "href_key": "watsons|https://www.watsons.com.tw/promotion-tag/67",
+      "img_rel": "images/watsons_03.jpg",
+      "title": "11/27 BLaCK FNIDEY 醫美護膚身體保養",
+      "desc": "11/27 / BLaCK FNIDEY / 醫美護膚身體保養 / 88折 / 網路 / 限定 / 立即腾物＞",
       "date": "依官網公告",
       "dateNote": "屈臣氏最新活動",
       "dateType": "ongoing",
       "category": "折扣優惠",
-      "href": "https://7x4.asw.tw/mpc12",
+      "href": "https://www.watsons.com.tw/promotion-tag/67",
       "is_new": true,
-      "first_seen": "2026-11-26"
+      "first_seen": "2026-11-27"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "1ab5b736bc0e244e",
+      "href_key": "watsons|https://www.watsons.com.tw/service-bankdaybenefit",
+      "img_rel": "images/watsons_25.jpg",
+      "title": "中國信託銀行 CTBC BANK 中國信託LINE Pay卡",
+      "desc": "中國信託銀行 / CTBC BANK / 中國信託LINE Pay卡 / 週五 / 單筆刷滿$888元（含）以上 / 屈臣氏寵點3萬點 / ©LY Corp / 在同貢面中",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "滿額贈禮",
+      "href": "https://www.watsons.com.tw/service-bankdaybenefit",
+      "is_new": true,
+      "first_seen": "2026-11-27"
     },
     {
       "store": "watsons",
@@ -461,94 +480,14 @@
       "category": "精選活動",
       "href": "https://ebooking.watsons.com.tw/index",
       "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "fc4ac15ae6af3a0d",
-      "href_key": "watsons|https://www.watsons.com.tw/promo-hair-2",
-      "img_rel": "images/watsons_02.jpg",
-      "title": "民生用品髮類用品   右邊",
-      "desc": "髮類商品 / 指定品牌滿$499 / 送$50 / （單筆不素贈。換購、買一送一等部分商品除外。 / PANTENE / CIELO / 宜若 / SAHOLEA",
-      "date": "依官網公告",
-      "dateNote": "屈臣氏最新活動",
-      "dateType": "ongoing",
-      "category": "折扣優惠",
-      "href": "https://www.watsons.com.tw/promo-hair-2",
-      "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "fadd72ed49fae3a5",
-      "href_key": "watsons|https://www.watsons.com.tw/promo-pc-5",
-      "img_rel": "images/watsons_03.jpg",
-      "title": "黑五加碼美髮家電",
-      "desc": "11/19▶11/27 / 黑五限定 / 色美烤家習殺2折組！ / （數量有限，售完為止•） / 原價$2280 / 特價 / $499 / BaByliss專業沙龍等離子柔髮",
-      "date": "2026/11/19 - 2026/11/27",
-      "dateNote": "短期快閃 / 即將截止",
-      "dateType": "urgent",
-      "category": "折扣優惠",
-      "href": "https://www.watsons.com.tw/promo-pc-5",
-      "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "12f6a90c7007e325",
-      "href_key": "watsons|https://www.watsons.com.tw/promo-mainpromotion-1",
-      "img_rel": "images/watsons_04.jpg",
-      "title": "主檔 超派寵粉祭",
-      "desc": "©Chrs / 超派寵粉祭 / 千件 / 混搭、 / 買1送1 / ※贈品以價低者計，數量有限，售完為止※ / Neu er / 超姐",
-      "date": "依官網公告",
-      "dateNote": "屈臣氏最新活動",
-      "dateType": "ongoing",
-      "category": "折扣優惠",
-      "href": "https://www.watsons.com.tw/promo-mainpromotion-1",
-      "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "35b6f5ca333c94fd",
-      "href_key": "watsons|https://www.watsons.com.tw/promo-food-2",
-      "img_rel": "images/watsons_05.jpg",
-      "title": "年末好美味上桌 同享寵i點數回饋 警食天堂",
-      "desc": "年末好美味上桌 / 同享寵i點數回饋 / 警食天堂 / 王品 / CHA夏 / MO募 / NIX尼 / 青/花驕®",
-      "date": "依官網公告",
-      "dateNote": "屈臣氏最新活動",
-      "dateType": "ongoing",
-      "category": "折扣優惠",
-      "href": "https://www.watsons.com.tw/promo-food-2",
-      "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "8653ca393d594c59",
-      "href_key": "watsons|https://www.watsons.com.tw/all-brands/list/164658/%E9%BA%A5%E7%95%B6%E5%8B%9E",
-      "img_rel": "images/watsons_06.jpg",
-      "title": "261008    票券 麥當勞",
-      "desc": "变當勞 / 即享券開賣啦！ / 即買即用超方便 / ※同享龍i會員回饋 / GCaroalh",
-      "date": "依官網公告",
-      "dateNote": "屈臣氏最新活動",
-      "dateType": "ongoing",
-      "category": "折扣優惠",
-      "href": "https://www.watsons.com.tw/all-brands/list/164658/%E9%BA%A5%E7%95%B6%E5%8B%9E",
-      "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "12749cc00e00b5f4",
       "href_key": "watsons|https://www.watsons.com.tw/promo-health-3",
-      "img_rel": "images/watsons_07.jpg",
+      "img_rel": "images/watsons_04.jpg",
       "title": "保健食品",
       "desc": "保健食品 / 滿$1200 / 滿$2000再送 / $100 / 屈臣氏廚房紙巾6捲入 / 商品提貨券 / 單筆不累送，贈品數量有限，送完為止 / ROBIOTIC",
       "date": "依官網公告",
@@ -557,30 +496,14 @@
       "category": "滿額贈禮",
       "href": "https://www.watsons.com.tw/promo-health-3",
       "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "afb36630851b4ce2",
-      "href_key": "watsons|https://www.watsons.com.tw/promo-skin-1",
-      "img_rel": "images/watsons_08.jpg",
-      "title": "醫美護膚SKIN",
-      "desc": "_季保養攻略 / 醫美/護膚（含防曬） / 滿$599顆 / 滿$999顆 / $100 / $200 / （$50*2張） / （巴含$599送$100）",
-      "date": "依官網公告",
-      "dateNote": "屈臣氏最新活動",
-      "dateType": "ongoing",
-      "category": "滿額贈禮",
-      "href": "https://www.watsons.com.tw/promo-skin-1",
-      "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "745d450eef4084e1",
       "href_key": "watsons|https://www.watsons.com.tw/promo-derma-1",
-      "img_rel": "images/watsons_09.jpg",
+      "img_rel": "images/watsons_05.jpg",
       "title": "醫美護膚 Derma",
       "desc": "醫美水光養虞街 / 醫美/護膚（含防曬） / 滿$599號 / 滿$999顆 / $100$2001 / （$50*2張） / （已含$599送$100） / 部分商品除外。單筆不累選。",
       "date": "依官網公告",
@@ -589,14 +512,110 @@
       "category": "滿額贈禮",
       "href": "https://www.watsons.com.tw/promo-derma-1",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "afb36630851b4ce2",
+      "href_key": "watsons|https://www.watsons.com.tw/promo-skin-1",
+      "img_rel": "images/watsons_06.jpg",
+      "title": "醫美護膚SKIN",
+      "desc": "_季保養攻略 / 醫美/護膚（含防曬） / 滿$599顆 / 滿$999顆 / $100 / $200 / （$50*2張） / （巴含$599送$100）",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "滿額贈禮",
+      "href": "https://www.watsons.com.tw/promo-skin-1",
+      "is_new": false,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "12f6a90c7007e325",
+      "href_key": "watsons|https://www.watsons.com.tw/promo-mainpromotion-1",
+      "img_rel": "images/watsons_07.jpg",
+      "title": "主檔 超派寵粉祭",
+      "desc": "©Chrs / 超派寵粉祭 / 千件 / 混搭、 / 買1送1 / ※贈品以價低者計，數量有限，售完為止※ / Neu er / 超姐",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "折扣優惠",
+      "href": "https://www.watsons.com.tw/promo-mainpromotion-1",
+      "is_new": false,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "35b6f5ca333c94fd",
+      "href_key": "watsons|https://www.watsons.com.tw/promo-food-2",
+      "img_rel": "images/watsons_08.jpg",
+      "title": "年末好美味上桌 同享寵i點數回饋 警食天堂",
+      "desc": "年末好美味上桌 / 同享寵i點數回饋 / 警食天堂 / 王品 / CHA夏 / MO募 / NIX尼 / 青/花驕®",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "折扣優惠",
+      "href": "https://www.watsons.com.tw/promo-food-2",
+      "is_new": false,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "8653ca393d594c59",
+      "href_key": "watsons|https://www.watsons.com.tw/all-brands/list/164658/%E9%BA%A5%E7%95%B6%E5%8B%9E",
+      "img_rel": "images/watsons_09.jpg",
+      "title": "261008    票券 麥當勞",
+      "desc": "变當勞 / 即享券開賣啦！ / 即買即用超方便 / ※同享龍i會員回饋 / GCaroalh",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "折扣優惠",
+      "href": "https://www.watsons.com.tw/all-brands/list/164658/%E9%BA%A5%E7%95%B6%E5%8B%9E",
+      "is_new": false,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "fc4ac15ae6af3a0d",
+      "href_key": "watsons|https://www.watsons.com.tw/promo-hair-2",
+      "img_rel": "images/watsons_10.jpg",
+      "title": "民生用品髮類用品   右邊",
+      "desc": "髮類商品 / 指定品牌滿$499 / 送$50 / （單筆不素贈。換購、買一送一等部分商品除外。 / PANTENE / CIELO / 宜若 / SAHOLEA",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "折扣優惠",
+      "href": "https://www.watsons.com.tw/promo-hair-2",
+      "is_new": false,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "fadd72ed49fae3a5",
+      "href_key": "watsons|https://www.watsons.com.tw/promo-pc-5",
+      "img_rel": "images/watsons_11.jpg",
+      "title": "黑五加碼美髮家電",
+      "desc": "11/19▶11/27 / 黑五限定 / 色美烤家習殺2折組！ / （數量有限，售完為止•） / 原價$2280 / 特價 / $499 / BaByliss專業沙龍等離子柔髮",
+      "date": "2026/11/19 - 2026/11/27",
+      "dateNote": "短期快閃 / 即將截止",
+      "dateType": "urgent",
+      "category": "折扣優惠",
+      "href": "https://www.watsons.com.tw/promo-pc-5",
+      "is_new": false,
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "b8466ff4dfb32023",
       "href_key": "watsons|https://www.watsons.com.tw/promo-new-1",
-      "img_rel": "images/watsons_10.jpg",
+      "img_rel": "images/watsons_12.jpg",
       "title": "新品大公開   A",
       "desc": "熱門新品 / 大公開！ / New Arrival / TSIO / HAIR RECDE / divnio / HAND / CREAM",
       "date": "依官網公告",
@@ -605,30 +624,14 @@
       "category": "精選活動",
       "href": "https://www.watsons.com.tw/promo-new-1",
       "is_new": false,
-      "first_seen": "2026-11-25"
-    },
-    {
-      "store": "watsons",
-      "storeName": "屈臣氏",
-      "sig": "a4bf349fe5852d1b",
-      "href_key": "watsons|https://www.watsons.com.tw/flagship-darlie",
-      "img_rel": "images/watsons_11.jpg",
-      "title": "Y26 WS P12品牌月 官網 3 EC首頁px",
-      "desc": "DARLIE / 好来 / 好來全系列商品 / 滿$299登錄（ / （新向後］ / 滿＄499 / 【新知後〉 / 好来全亮白品牌月個標有目）",
-      "date": "依官網公告",
-      "dateNote": "屈臣氏最新活動",
-      "dateType": "ongoing",
-      "category": "滿額贈禮",
-      "href": "https://www.watsons.com.tw/flagship-darlie",
-      "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "f64e44580911108a",
       "href_key": "watsons|https://www.watsons.com.tw/member-festival",
-      "img_rel": "images/watsons_12.jpg",
+      "img_rel": "images/watsons_13.jpg",
       "title": "超派寵粉祭  2",
       "desc": "Imeeer / OCis / 超派寵粉祭 / 最高回饋 / 等值會員點數 / 門市 / 限定 / 我買單",
       "date": "依官網公告",
@@ -637,14 +640,14 @@
       "category": "折扣優惠",
       "href": "https://www.watsons.com.tw/member-festival",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "6bbc56a6d556b7d4",
       "href_key": "watsons|https://www.watsons.com.tw/ecoupon",
-      "img_rel": "images/watsons_13.jpg",
+      "img_rel": "images/watsons_14.jpg",
       "title": "激省神券現領現折！o 首購禮 全站8折",
       "desc": "激省神券現領現折！o / 首購禮 / 全站8折 / 全站折價券 / 配送折價券 / 最高領 / 最高省 / $620",
       "date": "依官網公告",
@@ -653,14 +656,14 @@
       "category": "折扣優惠",
       "href": "https://www.watsons.com.tw/ecoupon",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "c012bc1627ffc38c",
       "href_key": "watsons|https://www.watsons.com.tw/promo-skinmask-o2o",
-      "img_rel": "images/watsons_14.jpg",
+      "img_rel": "images/watsons_15.jpg",
       "title": "醫美/護膚 身體保養/專櫃 送膜法券x3",
       "desc": "醫美/護膚 / 身體保養/專櫃 / 送膜法券x3 / （限實體門市兌換） / 小屈肌光膜法月 / 護膚/醫美 / 滿$5991 / 滿$999！",
       "date": "依官網公告",
@@ -669,14 +672,14 @@
       "category": "滿額贈禮",
       "href": "https://www.watsons.com.tw/promo-skinmask-o2o",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "476181e2ff0d2b20",
       "href_key": "watsons|https://7x4.asw.tw/26ptex",
-      "img_rel": "images/watsons_15.jpg",
+      "img_rel": "images/watsons_16.jpg",
       "title": "點數倒數o  EC",
       "desc": "寵i點數到期提醒 / 點數變現金 / 最後倒數 / 300點折1元 / 去年累點於2026/12/1失效",
       "date": "依官網公告",
@@ -685,14 +688,14 @@
       "category": "折扣優惠",
       "href": "https://7x4.asw.tw/26ptex",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "cc7c4db1500d224d",
       "href_key": "watsons|https://www.watsons.com.tw/promo-1111-discount-3",
-      "img_rel": "images/watsons_16.jpg",
+      "img_rel": "images/watsons_17.jpg",
       "title": "P12 雙11加碼活動",
       "desc": "NutriPlus / 活沛多 / Kids Probiotic / 免童益生菌 / 小韭爆買節 / 返場搶膊 / 11/19-12/2 / 屈臣氏",
       "date": "2026/11/19 - 2026/12/2",
@@ -701,14 +704,14 @@
       "category": "精選活動",
       "href": "https://www.watsons.com.tw/promo-1111-discount-3",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "93035b511615c7ba",
       "href_key": "watsons|https://www.watsons.com.tw/promo-oral-1",
-      "img_rel": "images/watsons_17.jpg",
+      "img_rel": "images/watsons_18.jpg",
       "title": "口腔商品5大品牌",
       "desc": "口腔好禮三重送 / 牙刷任2件送 / 好來白桃花香 / 牙膏25g / 網路 / 限定 / 牙膏任2件送 / Ora2xSOUSOU",
       "date": "依官網公告",
@@ -717,14 +720,14 @@
       "category": "滿額贈禮",
       "href": "https://www.watsons.com.tw/promo-oral-1",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "68d918293e06b136",
       "href_key": "watsons|https://www.watsons.com.tw/promo-nondemo-1",
-      "img_rel": "images/watsons_18.jpg",
+      "img_rel": "images/watsons_19.jpg",
       "title": "開架彩妝85折 滿＄699送 KINGJUN",
       "desc": "開架彩妝85折 / 滿＄699送 / KINGJUN / 梳勾以壓克力 / 鏡梳組 / 蠢兔款/愛心款 / （市值$299） / （單筆不累赠、贈品隨機出貨，送完為止）",
       "date": "依官網公告",
@@ -733,14 +736,14 @@
       "category": "折扣優惠",
       "href": "https://www.watsons.com.tw/promo-nondemo-1",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "92692cd96e6a2678",
       "href_key": "watsons|https://www.watsons.com.tw/all-brands/list/153583/%E9%87%8E%E7%8D%B8%E5%9C%8B",
-      "img_rel": "images/watsons_19.jpg",
+      "img_rel": "images/watsons_20.jpg",
       "title": "野獸國 11月開館慶 11.7-11.30玩具收藏館",
       "desc": "野獸國 / 11月開館慶 / 11.7-11.30玩具收藏館 / 全館滿$1,000 / 現折$100 / 在同質面中",
       "date": "2026/11/7 - 2026/11/30",
@@ -749,14 +752,14 @@
       "category": "折扣優惠",
       "href": "https://www.watsons.com.tw/all-brands/list/153583/%E9%87%8E%E7%8D%B8%E5%9C%8B",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "604bfcfdafb459de",
       "href_key": "watsons|https://www.watsons.com.tw/ssebong-rama",
-      "img_rel": "images/watsons_20.jpg",
+      "img_rel": "images/watsons_21.jpg",
       "title": "Duck 躺羸學 SSEBONGRAMA",
       "desc": "Duck / 躺羸學 / SSEBONGRAMA / 躺平鴨系列商品加價溝中 / 2026/11/4-12/2 消費不限金額即可加購 / Wrrr / WHAT / THE",
       "date": "2026/11/4 - 2026/12/2",
@@ -765,14 +768,14 @@
       "category": "精選活動",
       "href": "https://www.watsons.com.tw/ssebong-rama",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "de72e9d725c8268e",
       "href_key": "watsons|https://www.watsons.com.tw/promo-imember-main-1",
-      "img_rel": "images/watsons_21.jpg",
+      "img_rel": "images/watsons_22.jpg",
       "title": "會員爆殺價",
       "desc": "會員驚爆價 / 經典凡士林 / 熱銷百萬瓶 / Vaseline / HEALNG Jncr® / mulegu Recommersea / $69 / Vaseline凡土林經典高純",
       "date": "依官網公告",
@@ -781,14 +784,14 @@
       "category": "精選活動",
       "href": "https://www.watsons.com.tw/promo-imember-main-1",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "9b281a10e3880b98",
       "href_key": "watsons|https://www.watsons.com.tw/lc/1056",
-      "img_rel": "images/watsons_22.jpg",
+      "img_rel": "images/watsons_23.jpg",
       "title": "屈臣氏言網/APP 預訂隱形眼鏡 滿$699糖",
       "desc": "屈臣氏言網/APP / 預訂隱形眼鏡 / 滿$699糖 / 博士倫瑞霖淨潔 / 多效保養液60ml / （單筆不累贈，數量有限，送完為止） / AONANCED / BAUSCN+LONE",
       "date": "依官網公告",
@@ -797,14 +800,14 @@
       "category": "滿額贈禮",
       "href": "https://www.watsons.com.tw/lc/1056",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
       "store": "watsons",
       "storeName": "屈臣氏",
       "sig": "971d7590d278579c",
       "href_key": "watsons|https://www.watsons.com.tw/p/BP_328975",
-      "img_rel": "images/watsons_23.jpg",
+      "img_rel": "images/watsons_24.jpg",
       "title": "P12 孅見樂錠90錠",
       "desc": "NutriPlus / 活沛多 / REY / GOOD / LIFE / PLUS / MIN / 孅見樂錠90錠｜特價＄990",
       "date": "依官網公告",
@@ -813,7 +816,39 @@
       "category": "精選活動",
       "href": "https://www.watsons.com.tw/p/BP_328975",
       "is_new": false,
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "a4bf349fe5852d1b",
+      "href_key": "watsons|https://www.watsons.com.tw/flagship-darlie",
+      "img_rel": "images/watsons_26.jpg",
+      "title": "Y26 WS P12品牌月 官網 3 EC首頁px",
+      "desc": "DARLIE / 好来 / 好來全系列商品 / 滿$299登錄（ / （新向後］ / 滿＄499 / 【新知後〉 / 好来全亮白品牌月個標有目）",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "滿額贈禮",
+      "href": "https://www.watsons.com.tw/flagship-darlie",
+      "is_new": false,
+      "first_seen": "2026-11-26"
+    },
+    {
+      "store": "watsons",
+      "storeName": "屈臣氏",
+      "sig": "3a2f363eb67508da",
+      "href_key": "watsons|https://7x4.asw.tw/mpc12",
+      "img_rel": "images/watsons_27.jpg",
+      "title": "點數換勝會員點爆價 兌點享超值銅板換購價！折抵300點=$1 庄◎",
+      "desc": "點數換勝會員點爆價 / 兌點享超值銅板換購價！折抵300點=$1 / 庄◎ / 門市 / 限定 / 屈臣氏 / 屈臣氏抗菌潔淨 / 柔濕巾20片-粉/綠/藍/黃",
+      "date": "依官網公告",
+      "dateNote": "屈臣氏最新活動",
+      "dateType": "ongoing",
+      "category": "折扣優惠",
+      "href": "https://7x4.asw.tw/mpc12",
+      "is_new": false,
+      "first_seen": "2026-11-26"
     }
   ]
 }
